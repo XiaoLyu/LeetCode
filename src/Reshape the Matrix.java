@@ -28,6 +28,7 @@ Output:
  [3,4]]
 Explanation:
 There is no way to reshape a 2 * 2 matrix to a 2 * 4 matrix. So output the original matrix.
+
 Note:
 The height and width of the given matrix is in range [1, 100].
 The given r and c are all positive.

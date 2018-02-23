@@ -20,3 +20,36 @@ Note:
 1 <= len(bits) <= 1000.
 bits[i] is always 0 or 1.
 */
+
+/*
+从第一个位置往后跳位置，为0跳一个，为1跳2个
+*/
+
+class Solution {
+    public boolean isOneBitCharacter(int[] bits) {
+        		boolean result = false;
+		
+		if(bits == null || bits.length == 0){
+			return result;
+		}
+		
+		int index = 0;
+		while(index < bits.length - 1){
+			if(bits[index] == 1){
+				index = index + 2;
+			}
+			else if(bits[index] == 0){
+				index = index + 1;
+			}
+		}
+		
+		if(index == bits.length-1){
+			if(bits[bits.length - 1] == 0){
+				result = true;
+			}
+		}
+		
+		return result;
+        
+    }
+}

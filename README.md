@@ -10,4 +10,4 @@
 | 283 | [Move Zeroes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Move%20Zeroes.java) | easy | Array, Two Pointers |
 | 717 | [1-bit and 2-bit Characters](https://github.com/XiaoLyu/LeetCode/edit/master/src/1-bit%20and%202-bit%20Characters.java) | easy | Array |
 | 122 | [Best Time to Buy and Sell Stock II](https://github.com/XiaoLyu/LeetCode/blob/master/src/MaxProfit.java) | easy | Array, Greedy|
-| 169 | [Majority Element] | easy | Array, Divide and Conquer, Bit manipulation|
+| 169 | [Majority Element](https://github.com/XiaoLyu/LeetCode/blob/master/src/Majority%20Element.java) | easy | Array, Divide and Conquer, Bit manipulation|

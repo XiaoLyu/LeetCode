@@ -13,3 +13,4 @@
 | 169 | [Majority Element](https://github.com/XiaoLyu/LeetCode/blob/master/src/Majority%20Element.java) | easy | Array, Divide and Conquer, Bit manipulation|
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
+| 796 | [Rotate String] | easy | |

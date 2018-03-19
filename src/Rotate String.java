@@ -14,3 +14,17 @@ Note:
 
 A and B will have length at most 100.
 */
+
+/*
+A+A是否含有B
+*/
+
+class Solution {
+    public boolean rotateString(String A, String B) {
+        if(A.length() == B.length() && (A+A).contains(B)){
+            return true;
+        }
+        else
+            return false;
+    }
+}

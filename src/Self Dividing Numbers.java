@@ -15,3 +15,31 @@ Note:
 
 The boundaries of each input argument are 1 <= left <= right <= 10000.
 */
+
+/*
+ * % 出来的数有正有负，符号取决于左操作数
+ * mod 只能是正
+ * a mod b = (a % b + b) % b
+ */
+
+class Solution {
+    public List<Integer> selfDividingNumbers(int left, int right) {
+        List<Integer> result = new ArrayList<>();
+        
+        for(int current = left; current < (right + 1); current++){
+            //如果current能被每个数整除，加入result
+        	int c = current;
+        	while(c != 0){
+        		int div = c % 10;
+        		if(div == 0 || current % div != 0){
+        			break;
+        		}
+        		c = c/10;
+        	}
+        	if(c == 0){
+        		result.add(current);
+        	}
+        }
+        return result;
+	}
+}

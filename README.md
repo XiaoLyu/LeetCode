@@ -16,4 +16,5 @@
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 669 | [Trim a Binary Search Tree] | easy | Tree |
 | 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table| 
-| 832 | [Flipping an Image](https://github.com/XiaoLyu/LeetCode/blob/master/src/Flipping%20an%20Image.java) | easy | Array|
+| 832 | [Flipping an Image](https://github.com/XiaoLyu/LeetCode/blob/master/src/Flipping%20an%20Image.java) | easy | Array |
+| 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |

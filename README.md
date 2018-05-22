@@ -19,3 +19,4 @@
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |
 | 806 | [Number of Lines To Write String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Lines%20To%20Write%20String.java) | easy | |
 | 669 | [Trim a Binary Search Tree] | easy | Tree |
+| 830 | [Positions of Large Groups] | easy | Array |

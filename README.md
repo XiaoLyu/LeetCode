@@ -16,3 +16,4 @@
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 669 | [Trim a Binary Search Tree] | easy | Tree |
 | 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table| 
+| 832 | [Flipping an Image] | easy | Array|

@@ -12,7 +12,6 @@
 | 717 | [1-bit and 2-bit Characters](https://github.com/XiaoLyu/LeetCode/edit/master/src/1-bit%20and%202-bit%20Characters.java) | easy | Array |
 | 169 | [Majority Element](https://github.com/XiaoLyu/LeetCode/blob/master/src/Majority%20Element.java) | easy | Array, Divide and Conquer, Bit manipulation|
 | 122 | [Best Time to Buy and Sell Stock II](https://github.com/XiaoLyu/LeetCode/blob/master/src/MaxProfit.java) | easy | Array, Greedy|
-
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

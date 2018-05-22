@@ -17,4 +17,5 @@
 | 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table| 
 | 832 | [Flipping an Image](https://github.com/XiaoLyu/LeetCode/blob/master/src/Flipping%20an%20Image.java) | easy | Array |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |
+| 806 | [Number of Lines To Write String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Lines%20To%20Write%20String.java) | easy | |
 | 669 | [Trim a Binary Search Tree] | easy | Tree |

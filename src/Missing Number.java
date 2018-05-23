@@ -17,13 +17,13 @@ Your algorithm should run in linear runtime complexity. Could you implement it u
 class Solution {
     public int missingNumber(int[] nums) {
     	int total = 0;
-			int real = 0;
-			for(int i = 0; i < nums.length; i++){
-				total = total + i;
-				real = real + nums[i];
-		 	}
-			int result = total + nums.length - real;
-			return result;
+	int real = 0;
+	for(int i = 0; i < nums.length; i++){
+		total = total + i;
+		real = real + nums[i];
+	}
+	int result = total + nums.length - real;
+	return result;
     }
 }
 
@@ -31,9 +31,9 @@ class Solution {
 class Solution {
     public int missingNumber(int[] nums) {
         int result = 0;
-				for(int i = 0; i < nums.length; i++){
-					result = result ^ nums[i] ^ i;
-				}
-				return result ^ nums.length;
+	for(int i = 0; i < nums.length; i++){
+		result = result ^ nums[i] ^ i;
+	}
+	return result ^ nums.length;
     }
 }

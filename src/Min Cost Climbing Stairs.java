@@ -15,3 +15,22 @@ Note:
 cost will have a length in the range [2, 1000].
 Every cost[i] will be an integer in the range [0, 999].
 */
+
+class Solution {
+    public int minCostClimbingStairs(int[] cost) {
+        int[] total = new int[cost.length];
+		total[0] = cost[0];
+		total[1] = Math.min(cost[1], cost[0] + cost[1]);
+		
+		for(int i = 2; i < cost.length; i++){
+			total[i] = Math.min(total[i-2] + cost[i], total[i-1] + cost[i]);
+		}
+		
+		if(total[cost.length-1] > total[cost.length-2]){
+			return total[cost.length-2];
+		}
+		else{
+			return total[cost.length-1];
+		}
+    }
+}

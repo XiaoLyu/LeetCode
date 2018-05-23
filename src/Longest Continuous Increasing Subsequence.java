@@ -13,3 +13,25 @@ Explanation: The longest continuous increasing subsequence is [2], its length is
 Note: Length of the array will not exceed 10,000.
 */
 
+class Solution {
+    public int findLengthOfLCIS(int[] nums) {
+        int result = 0;
+		int temp = 0;
+		if(nums != null & nums.length > 0){
+			result = 1;
+			temp = 1;
+			for(int i = 1; i < nums.length; i++){
+				if(nums[i] > nums[i-1]){
+					temp++;
+					if(temp > result){
+						result = temp;
+					}
+				}
+				else{
+					temp = 1;
+				}
+			}
+		}
+		return result;
+    }
+}

@@ -20,6 +20,7 @@
 | 661 | [Image Smoother](https://github.com/XiaoLyu/LeetCode/blob/master/src/Image%20Smoother.java) | easy | Array |
 | 268 | [Missing Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Missing%20Number.java) | easy | Array, Math, Bit Manipulation |
 | 628 | [Maximum Product of Three Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Maximum%20Product%20of%20Three%20Numbers.java) | easy | Array, Math |
+| 746 | [Min Cost Climbing Stairs](https://github.com/XiaoLyu/LeetCode/blob/master/src/Min%20Cost%20Climbing%20Stairs.java) | easy | Array, DP |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

@@ -13,9 +13,10 @@ Note:
 Your algorithm should run in linear runtime complexity. Could you implement it using only constant extra space complexity?
 */
 
+// 求和
 class Solution {
     public int missingNumber(int[] nums) {
-        int total = 0;
+    int total = 0;
 		int real = 0;
         for(int i = 0; i < nums.length; i++){
         	total = total + i;
@@ -25,3 +26,16 @@ class Solution {
         return result;
     }
 }
+
+// 位运算
+class Solution {
+    public int missingNumber(int[] nums) {
+        int result = 0;
+				for(int i = 0; i < nums.length; i++){
+					result = result ^ nums[i] ^ i;
+				}
+				return result ^ nums.length;
+    }
+}
+
+

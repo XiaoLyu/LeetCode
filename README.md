@@ -23,6 +23,7 @@
 | 746 | [Min Cost Climbing Stairs](https://github.com/XiaoLyu/LeetCode/blob/master/src/Min%20Cost%20Climbing%20Stairs.java) | easy | Array, DP |
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/XiaoLyu/LeetCode/blob/master/src/Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) | easy | Array, DP |
 | 674 | [Longest Continuous Increasing Subsequence](https://github.com/XiaoLyu/LeetCode/blob/master/src/Longest%20Continuous%20Increasing%20Subsequence.java) | easy | Array |
+| 747 | [Largest Number At Least Twice of Others](https://github.com/XiaoLyu/LeetCode/blob/master/src/Largest%20Number%20At%20Least%20Twice%20of%20Others.java) | easy | Array |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

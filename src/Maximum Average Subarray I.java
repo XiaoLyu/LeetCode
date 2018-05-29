@@ -9,3 +9,25 @@ Note:
 1 <= k <= n <= 30,000.
 Elements of the given array will be in the range [-10,000, 10,000].
 */
+
+class Solution {
+    public double findMaxAverage(int[] nums, int k) {
+        int length = nums.length - k + 1;
+		int[] array = new int[length];
+		
+		for(int i = 0; i < length; i++){
+			for(int j = 0; j < k; j++){
+				array[i] = array[i] + nums[i+j];
+			}
+		}
+		
+		int max = Integer.MIN_VALUE;
+		for(int i = 0; i < length; i++){
+			if(array[i] > max){
+				max = array[i];
+			}
+		}
+		
+		return (double)max/k;
+    }
+}

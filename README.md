@@ -27,7 +27,7 @@
 | 27 | [Remove Element](https://github.com/XiaoLyu/LeetCode/blob/master/src/Remove%20Element.java) | easy | Array, Two pointers |
 | 118 | [Pascal's Triangle](https://github.com/XiaoLyu/LeetCode/blob/master/src/Pascal's%20Triangle.java) | easy | Array, DP |
 | 53 | [Maximum Subarray](https://github.com/XiaoLyu/LeetCode/blob/master/src/Maximum%20Subarray.java) | easy | Array, DP, Divide & Conquer |
-| 35 | [Search Insert Position]() | easy | Array, Binary Search |
+| 35 | [Search Insert Position](https://github.com/XiaoLyu/LeetCode/blob/master/src/Search%20Insert%20Position.java) | easy | Array, Binary Search |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

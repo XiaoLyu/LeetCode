@@ -23,3 +23,31 @@ Note:
 The length of nums will be in the range [0, 10000].
 Each element nums[i] will be an integer in the range [-1000, 1000].
 */
+
+class Solution {
+    public int pivotIndex(int[] nums) {
+        int length = nums.length;
+		int[] left = new int[length];
+		int[] right = new int[length];
+		
+		if(nums!= null & nums.length > 0){
+			left[0] = nums[0];
+			right[length-1] = nums[length-1];
+			for(int i = 1; i < length; i++){
+				left[i] = left[i-1] + nums[i];
+			}
+			
+			for(int i = length-2; i>=0; i--){
+				right[i] = right[i+1] + nums[i];
+			}
+			
+			for(int i = 0; i < length; i++){
+				if(left[i] == right[i]){
+					return i;
+				}
+			}
+		}
+		
+		return -1;
+    }
+}

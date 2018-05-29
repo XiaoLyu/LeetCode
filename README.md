@@ -31,6 +31,7 @@
 | 66 | [Plus One](https://github.com/XiaoLyu/LeetCode/blob/master/src/Plus%20One.java) | easy | Array, Math |
 | 724 | [Find Pivot Index](https://github.com/XiaoLyu/LeetCode/blob/master/src/Find%20Pivot%20Index.java) | easy | Array |
 | 119 | [Pascal's Triangle II](https://github.com/XiaoLyu/LeetCode/blob/master/src/Pascal's%20Triangle%20II.java) | easy | Array |
+| 1 | [Two Sum](https://github.com/XiaoLyu/LeetCode/blob/master/src/Two%20Sum.java) | easy | Array, Hash table |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

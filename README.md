@@ -25,7 +25,7 @@
 | 674 | [Longest Continuous Increasing Subsequence](https://github.com/XiaoLyu/LeetCode/blob/master/src/Longest%20Continuous%20Increasing%20Subsequence.java) | easy | Array |
 | 747 | [Largest Number At Least Twice of Others](https://github.com/XiaoLyu/LeetCode/blob/master/src/Largest%20Number%20At%20Least%20Twice%20of%20Others.java) | easy | Array |
 | 27 | [Remove Element](https://github.com/XiaoLyu/LeetCode/blob/master/src/Remove%20Element.java) | easy | Array, Two pointers |
-| 118 | [Pascal's Triangle](https://github.com/XiaoLyu/LeetCode/blob/master/src/Pascal's%20Triangle.java) | easy | Array |
+| 118 | [Pascal's Triangle](https://github.com/XiaoLyu/LeetCode/blob/master/src/Pascal's%20Triangle.java) | easy | Array, DP |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

@@ -14,3 +14,18 @@ Follow up:
 
 Could you optimize your algorithm to use only O(k) extra space?
 */
+
+class Solution {
+    public List<Integer> getRow(int rowIndex) {
+        Integer[] resultArray = new Integer[rowIndex+1];
+		Arrays.fill(resultArray, 0);
+		resultArray[0] = 1;
+		for(int i = 1; i <= rowIndex; i++){
+			for(int j = i; j >0; j--){
+				resultArray[j] = resultArray[j] + resultArray[j-1];
+			}
+		}
+        
+		return Arrays.asList(resultArray);
+    }
+}

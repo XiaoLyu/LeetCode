@@ -25,6 +25,7 @@
 | 674 | [Longest Continuous Increasing Subsequence](https://github.com/XiaoLyu/LeetCode/blob/master/src/Longest%20Continuous%20Increasing%20Subsequence.java) | easy | Array |
 | 747 | [Largest Number At Least Twice of Others](https://github.com/XiaoLyu/LeetCode/blob/master/src/Largest%20Number%20At%20Least%20Twice%20of%20Others.java) | easy | Array |
 | 27 | [Remove Element](https://github.com/XiaoLyu/LeetCode/blob/master/src/Remove%20Element.java) | easy | Array, Two pointers |
+| 118 | [Pascal's Triangle]() | easy | Array |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
@@ -32,6 +33,3 @@
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |
 | 806 | [Number of Lines To Write String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Lines%20To%20Write%20String.java) | easy | |
 | 669 | [Trim a Binary Search Tree] | easy | Tree |
-
-
-

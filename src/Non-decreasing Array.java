@@ -13,3 +13,28 @@ Output: False
 Explanation: You can't get a non-decreasing array by modify at most one element.
 Note: The n belongs to [1, 10,000].
 */
+
+class Solution {
+    public boolean checkPossibility(int[] nums) {
+        if(nums.length == 0 || nums.length == 1) return true;
+    	
+    	int count = 0;
+        for(int i = 1; i < nums.length; i++){
+        	if(nums[i] < nums[i-1]){
+        		if(i==1 || i==nums.length-1 || (i >= 2 && nums[i] >= nums[i-2]) || (i >=2 && nums[i+1] >= nums[i-1])){
+        			count++;
+        		}
+        		else{
+        			return false;
+        		}
+        		
+        	}
+        }
+        
+        if(count <= 1){
+        	return true;
+        }
+        else
+        	return false;
+    }
+}

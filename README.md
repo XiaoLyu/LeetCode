@@ -47,6 +47,7 @@
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table | 
 | 690 | [Employee Importance](https://github.com/XiaoLyu/LeetCode/blob/master/src/Employee%20Importance.java) | easy | Hash Table, DFS, BFS |
+| 389 | [Find the Difference](https://github.com/XiaoLyu/LeetCode/blob/master/src/Find%20the%20Difference.java) | easy | Hash Table, Bit Manipulation |
 | --- | --------------------------- | ------------ | ------------ |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

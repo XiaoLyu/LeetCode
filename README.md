@@ -36,6 +36,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Remove%20Duplicates%20from%20Sorted%20Array.java) | easy | Array, Two pointers |
 | 840 | [Magic Squares In Grid](https://github.com/XiaoLyu/LeetCode/blob/master/src/Magic%20Squares%20In%20Grid.java) | easy | Array |
 | 219 | [Contains Duplicate II](https://github.com/XiaoLyu/LeetCode/blob/master/src/Contains%20Duplicate%20II.java) | easy | Array, Hash table |
+| 88 | [Merge Sorted Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Merge%20Sorted%20Array.java) | easy | Array, Two pointers |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

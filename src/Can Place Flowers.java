@@ -14,3 +14,24 @@ The input array won't violate no-adjacent-flowers rule.
 The input array size is in the range of [1, 20000].
 n is a non-negative integer which won't exceed the input array size.
 */
+
+class Solution {
+    public boolean canPlaceFlowers(int[] flowerbed, int n) {
+        if(n <= 0){
+			return true;
+		}
+		
+        for(int i = 0; i < flowerbed.length; i++){
+        	if(flowerbed[i] == 0){
+        		if((i == 0 || flowerbed[i-1] == 0) && (i == flowerbed.length-1 || flowerbed[i+1] == 0)){
+        			flowerbed[i] = 1;
+        			n--;
+        			if(n == 0){
+        				return true;
+        			}
+        		}
+        	}
+        }
+        return false;
+    }
+}

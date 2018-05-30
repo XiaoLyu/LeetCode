@@ -45,9 +45,11 @@
 | 665 | [Non-decreasing Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Non-decreasing%20Array.java) | easy | Array |
 | --- | --------------------------- | ------------ | ------------ |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
+| 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table | 
+| 690 | [Employee Importance](https://github.com/XiaoLyu/LeetCode/blob/master/src/Employee%20Importance.java) | easy | Hash Table, DFS, BFS |
+| --- | --------------------------- | ------------ | ------------ |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
-| 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table | 
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |
 | 806 | [Number of Lines To Write String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Lines%20To%20Write%20String.java) | easy | |
 | 669 | [Trim a Binary Search Tree] | easy | Tree |

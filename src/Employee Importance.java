@@ -14,3 +14,35 @@ Note:
 One employee has at most one direct leader and may have several subordinates.
 The maximum number of employees won't exceed 2000.
 */
+
+/*
+// Employee info
+class Employee {
+    // It's the unique id of each node;
+    // unique id of this employee
+    public int id;
+    // the importance value of this employee
+    public int importance;
+    // the id of direct subordinates
+    public List<Integer> subordinates;
+};
+*/
+class Solution {
+    Map<Integer, Employee> map = new HashMap<Integer, Employee>();
+    
+    public int getImportance(List<Employee> employees, int id) {
+        for(Employee employee: employees){
+			map.put(employee.id, employee);
+		}
+		return DFS(id);
+    }
+	
+	public int DFS(int id){
+		Employee e = map.get(id);
+		int value = e.importance;
+		for(Integer each : e.subordinates){
+			value = value + DFS(each);
+		}
+		return value;
+    }
+}

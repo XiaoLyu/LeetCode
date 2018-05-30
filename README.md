@@ -41,6 +41,7 @@
 | 581 | [Shortest Unsorted Continuous Subarray](https://github.com/XiaoLyu/LeetCode/blob/master/src/Shortest%20Unsorted%20Continuous%20Subarray.java) | easy | Array |
 | 532 | [K-diff Pairs in an Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/K-diff%20Pairs%20in%20an%20Array.java) | easy | Array, Two pointers |
 | 414 | [Third Maximum Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Third%20Maximum%20Number.java) | easy | Array |
+| 189 | [Rotate Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20Array.java) | easy | Array |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

@@ -19,3 +19,37 @@ The pairs (i, j) and (j, i) count as the same pair.
 The length of the array won't exceed 10,000.
 All the integers in the given input belong to the range: [-1e7, 1e7].
 */
+
+class Solution {
+    public int findPairs(int[] nums, int k) {
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+        
+        for(int i = 0; i < nums.length; i++){
+        	if(!map.containsKey(nums[i])){
+        		map.put(nums[i], 1);
+        	}
+        	else{
+        		map.put(nums[i], map.get(nums[i])+1);
+        	}
+        }
+        
+        int count = 0;
+        
+    	for(Map.Entry<Integer, Integer> entry : map.entrySet()){
+    		if(k == 0){
+        		if(entry.getValue() >= 2){
+        			count++;
+        		}
+    		}
+    		else if(k > 0){
+	        	if(map.containsKey(entry.getKey() + k)){
+	        		count++;
+	        	}
+	        }
+    		else if(k < 0){
+    			count = 0;
+    		}
+        }
+    	return count;
+    }
+}

@@ -11,3 +11,31 @@ Example:
 Answer: 16
 Explanation: The perimeter is the 16 yellow stripes in the image below:
 */
+
+class Solution {
+    public int islandPerimeter(int[][] grid) {
+        int perimeter = 0;
+		//1的个数*4-重复的边数（上下左右有1的，1*共边）
+		for(int i = 0; i < grid.length; i++){
+			for(int j = 0; j < grid[0].length; j++){
+				if(grid[i][j] == 1){
+					perimeter = perimeter + 4;
+					if(i >= 1 && grid[i-1][j] == 1){
+						perimeter = perimeter - 1;
+					}
+					if((i+1 <= (grid.length -1)) && grid[i+1][j] == 1){
+						perimeter = perimeter - 1;
+					}
+					if(j >= 1 && grid[i][j-1] == 1){
+						perimeter = perimeter - 1;
+					}
+					if((j+1 <= (grid[0].length - 1)) && grid[i][j+1] == 1){
+						perimeter = perimeter - 1;
+					}
+				}
+				
+			}
+		}
+		return perimeter;
+    }
+}

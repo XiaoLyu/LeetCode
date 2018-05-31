@@ -55,6 +55,7 @@
 | 349 | [Intersection of Two Arrays](https://github.com/XiaoLyu/LeetCode/blob/master/src/Intersection%20of%20Two%20Arrays.java) | easy | Hash Table, Binary Search, Two pointers, Sort |
 | 242 | [Valid Anagram](https://github.com/XiaoLyu/LeetCode/blob/master/src/Valid%20Anagram.java) | easy | Hash Table, Sort |
 | 387 | [First Unique Character in a String](https://github.com/XiaoLyu/LeetCode/blob/master/src/First%20Unique%20Character%20in%20a%20String.java) | easy | Hash Table, String |
+| 447 | [Number of Boomerangs](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Boomerangs.java) | easy | Hash Table |
 | --- | --------------------------- | ------------ | ------------ |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

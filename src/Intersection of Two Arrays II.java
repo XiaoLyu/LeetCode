@@ -12,3 +12,32 @@ What if the given array is already sorted? How would you optimize your algorithm
 What if nums1's size is small compared to nums2's size? Which algorithm is better?
 What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?
 */
+
+class Solution {
+    public int[] intersect(int[] nums1, int[] nums2) {
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+        List<Integer> result = new ArrayList<Integer>();
+    	
+        for(int i = 0; i < nums1.length; i++){
+        	if(!map.containsKey(nums1[i])){
+        		map.put(nums1[i], 1);
+        	}
+        	else{
+        		map.put(nums1[i], map.get(nums1[i])+1);
+        	}
+        }
+        
+        for(int i = 0; i < nums2.length; i++){
+        	if(map.containsKey(nums2[i]) && map.get(nums2[i]) > 0){
+        		result.add(nums2[i]);
+        		map.put(nums2[i], map.get(nums2[i])-1);
+        	}
+        }
+        
+        int[] array = new int[result.size()];
+        for(int i = 0; i < result.size(); i++){
+        	array[i] = result.get(i);
+        }
+        return array;
+    }
+}

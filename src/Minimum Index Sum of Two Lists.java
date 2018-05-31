@@ -21,3 +21,35 @@ The length of strings in both lists will be in the range of [1, 30].
 The index is starting from 0 to the list length minus 1.
 No duplicates in both lists.
 */
+
+class Solution {
+    public String[] findRestaurant(String[] list1, String[] list2) {
+       List<String> name = new ArrayList<String>();
+        
+        Map<String, int[]> map = new HashMap<String, int[]>();
+        
+        for(int i = 0; i < list1.length; i++){
+        	int[] temp = {1, i};
+        	map.put(list1[i], temp);
+        }
+        
+        int indexSum = Integer.MAX_VALUE;
+        for(int i = 0; i < list2.length; i++){
+        	if(map.containsKey(list2[i])){
+        		int[] temp = {2, map.get(list2[i])[1] + i};
+        		name.add(list2[i]);
+        		map.put(list2[i], temp);
+        		indexSum = Math.min(indexSum, temp[1]);
+        	}
+        }
+        
+        List<String> result = new ArrayList<String>();
+        for(int i = 0; i < name.size(); i++){
+        	String t = name.get(i);
+        	if(map.get(t)[1] == indexSum){
+        		result.add(t);
+        	}
+        }
+        return result.toArray(new String[0]);
+    }
+}

@@ -13,3 +13,32 @@ Output:
 Explanation:
 The two boomerangs are [[1,0],[0,0],[2,0]] and [[1,0],[2,0],[0,0]]
 */
+
+class Solution {
+    public int numberOfBoomerangs(int[][] points) {
+        if(points == null || points.length == 0)	return 0;
+    	
+    	Map<Double, Integer> map = new HashMap<Double, Integer>();
+    	int result = 0;
+    	
+    	for(int i = 0; i < points.length; i++){
+    		int[] A = points[i];
+    		
+    		for(int j = 0; j < points.length; j++){
+    			if(j != i){
+    				int[] curr = points[j];
+    				double value = Math.pow(A[0]-curr[0], 2) + Math.pow(A[1]-curr[1], 2);
+    				if(map.containsKey(value)){
+    					result = result + 2* map.get(value);
+    					map.put(value, map.get(value)+1);
+    				}
+    				else{
+    					map.put(value, 1);
+    				}
+    			}
+    		}
+    		map.clear();
+    	}
+        return result;
+    }
+}

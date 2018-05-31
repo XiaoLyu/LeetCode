@@ -48,6 +48,7 @@
 | 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table | 
 | 500 | [Keyboard Row](https://github.com/XiaoLyu/LeetCode/blob/master/src/Keyboard%20Row.java) | easy | Hash Table |
 | 463 | [Island Perimeter](https://github.com/XiaoLyu/LeetCode/blob/master/src/Island%20Perimeter.java) | easy | Hash Table |
+| 575 | [Distribute Candies](https://github.com/XiaoLyu/LeetCode/blob/master/src/Distribute%20Candies.java) | easy | Hash Table |
 | 690 | [Employee Importance](https://github.com/XiaoLyu/LeetCode/blob/master/src/Employee%20Importance.java) | easy | Hash Table, DFS, BFS |
 | 389 | [Find the Difference](https://github.com/XiaoLyu/LeetCode/blob/master/src/Find%20the%20Difference.java) | easy | Hash Table, Bit Manipulation |
 | 349 | [Intersection of Two Arrays](https://github.com/XiaoLyu/LeetCode/blob/master/src/Intersection%20of%20Two%20Arrays.java) | easy | Hash Table, Binary Search, Two pointers, Sort |

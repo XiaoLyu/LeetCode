@@ -17,3 +17,20 @@ Note:
 The length of the given array is in range [2, 10,000], and will be even.
 The number in given array is in range [-100,000, 100,000].
 */
+
+class Solution {
+    public int distributeCandies(int[] candies) {
+        int length = candies.length;
+		//[1,1,2,2,3,3] 找出所有不同数字的个数，是否大于一半的长度
+		HashSet<Integer> candiesSet = new HashSet<Integer>();
+		for(int i : candies){
+			candiesSet.add(i);
+		}
+
+		if(candiesSet.size() > (length / 2)){
+			return length/2;
+		}
+		else
+			return candiesSet.size();
+    }
+}

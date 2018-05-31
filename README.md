@@ -59,6 +59,7 @@
 | 599 | [Minimum Index Sum of Two Lists](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Index%20Sum%20of%20Two%20Lists.java) | easy | Hash Table |
 | 409 | [Longest Palindrome](https://github.com/XiaoLyu/LeetCode/blob/master/src/Longest%20Palindrome.java) | easy | Hash Table |
 | 350 | [Intersection of Two Arrays II](https://github.com/XiaoLyu/LeetCode/blob/master/src/Intersection%20of%20Two%20Arrays%20II.java) | easy | Hash Table, Two Pointers, Binary Search, Sort |
+| 202 | [Happy Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Happy%20Number.java) | easy | Hash Table, Math |
 | --- | --------------------------- | ------------ | ------------ |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

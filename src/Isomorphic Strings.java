@@ -20,3 +20,19 @@ Output: true
 Note:
 You may assume both s and t have the same length.
 */
+
+class Solution {
+    public boolean isIsomorphic(String s, String t) {
+       for(int i = 0; i < s.length(); i++){
+    	   if(getFirstIndex(i, s) != getFirstIndex(i, t)) return false;
+       }
+       return true;
+    }
+    
+    public int getFirstIndex(int position, String s){
+    	Character c = s.charAt(position);
+    	int index = s.indexOf(c);
+    	int result = (index < position) ? index : position;
+    	return result;
+    }
+}

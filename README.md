@@ -63,6 +63,7 @@
 | 720 | [Longest Word in Dictionary](https://github.com/XiaoLyu/LeetCode/blob/master/src/Longest%20Word%20in%20Dictionary.java) | easy | Hash Table, Trie |
 | 594 | [Longest Harmonious Subsequence](https://github.com/XiaoLyu/LeetCode/blob/master/src/Longest%20Harmonious%20Subsequence.java) | easy | Hash Table |
 | 645 | [Set Mismatch](https://github.com/XiaoLyu/LeetCode/blob/master/src/Set%20Mismatch.java) | easy | Hash Table, Math |
+| 205 | [Isomorphic Strings](https://github.com/XiaoLyu/LeetCode/blob/master/src/Isomorphic%20Strings.java) | easy | Hash Table |
 | --- | --------------------------- | ------------ | ------------ |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

@@ -62,6 +62,7 @@
 | 202 | [Happy Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Happy%20Number.java) | easy | Hash Table, Math |
 | 720 | [Longest Word in Dictionary](https://github.com/XiaoLyu/LeetCode/blob/master/src/Longest%20Word%20in%20Dictionary.java) | easy | Hash Table, Trie |
 | 594 | [Longest Harmonious Subsequence](https://github.com/XiaoLyu/LeetCode/blob/master/src/Longest%20Harmonious%20Subsequence.java) | easy | Hash Table |
+| 645 | [Set Mismatch](https://github.com/XiaoLyu/LeetCode/blob/master/src/Set%20Mismatch.java) | easy | Hash Table, Math |
 | --- | --------------------------- | ------------ | ------------ |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

@@ -10,3 +10,29 @@ Note:
 The given array size will in the range [2, 10000].
 The given array's numbers won't have any order.
 */
+
+class Solution {
+    public int[] findErrorNums(int[] nums) {
+        int length = nums.length;
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+        int[] result = new int[2];
+        
+        for(int i = 0; i < length; i++){
+        	map.put(i+1, 0);
+        }
+        
+        for(int num: nums){
+        	map.put(num, map.get(num) + 1);
+        }
+        
+        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
+        	if(entry.getValue() == 2){
+        		result[0] = entry.getKey();
+        	}
+        	if(entry.getValue() == 0){
+        		result[1] = entry.getKey();
+        	}
+        }
+        return result;
+    }
+}

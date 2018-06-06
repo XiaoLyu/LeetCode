@@ -13,7 +13,6 @@ Note: The length of the input array will not exceed 20,000.
 class Solution {
     public int findLHS(int[] nums) {
         Map<Integer, Integer> map = new HashMap<Integer, Integer>();
-		
 		for(int num: nums){
 			if(map.containsKey(num)){
 				map.put(num, map.get(num) + 1);

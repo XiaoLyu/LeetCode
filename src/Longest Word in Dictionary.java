@@ -20,3 +20,60 @@ All the strings in the input will only contain lowercase letters.
 The length of words will be in the range [1, 1000].
 The length of words[i] will be in the range [1, 30].
 */
+
+class Solution {
+    class Trie{
+		class Node{
+			Node[] next = new Node[26];
+			boolean isEnd;
+		}
+		
+		Node root;
+		
+		public Trie(){
+			root = new Node();
+			root.isEnd = true;
+		}
+		
+		public void insert(String s){
+			Node node = root;
+			for(Character c: s.toCharArray()){
+				if(node.next[c-'a'] == null){
+					node.next[c-'a'] = new Node();
+				}
+				node = node.next[c-'a'];
+			}
+			node.isEnd = true;
+		}
+		
+		public boolean canForm(String s){
+			Node node = root;
+			for(Character c: s.toCharArray()){
+				if(node.next[c-'a'] == null || node.next[c-'a'].isEnd != true){
+					return false;
+				}
+				node = node.next[c-'a'];
+			}
+			return true;
+		}
+	}
+	
+    public String longestWord(String[] words) {
+    	Trie trie = new Trie();
+    	for(String word : words){
+    		trie.insert(word);
+    	}
+    	String result = "";
+    	for(String word : words){
+    		if(word.length() >= result.length() && trie.canForm(word)){
+    			if(word.length()  > result.length()){
+    				result = word;
+    			}
+    			else{
+    				result = word.compareTo(result) < 0 ? word : result;
+    			}
+    		}
+    	}
+        return result;
+    }
+}

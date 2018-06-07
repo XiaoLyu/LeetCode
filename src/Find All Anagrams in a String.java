@@ -59,6 +59,7 @@ class Solution {
         	end++;
         	
         	// counter !!!这个地方超级厉害！！！
+            // counter最多只能1，0可以很多次连续
         	while(counter == 0){
         		if(end - begin == p.length()){
         			result.add(begin);

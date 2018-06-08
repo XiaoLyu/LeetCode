@@ -44,9 +44,6 @@
 | 189 | [Rotate Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20Array.java) | easy | Array |
 | 665 | [Non-decreasing Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Non-decreasing%20Array.java) | easy | Array |
 | --- | --------------------------- | ------------ | ------------ |
-| 237 | [Delete Node in a Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Delete%20Node%20in%20a%20Linked%20List.java) | easy | Linked List |
-| 206 | [Reverse Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Linked%20List.java) | easy | Linked List |
-| --- | --------------------------- | ------------ | ------------ |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table | 
 | 500 | [Keyboard Row](https://github.com/XiaoLyu/LeetCode/blob/master/src/Keyboard%20Row.java) | easy | Hash Table |
@@ -70,6 +67,9 @@
 | 438 | [Find All Anagrams in a String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Find%20All%20Anagrams%20in%20a%20String.java) | easy | Hash Table |
 | 290 | [Word Pattern](https://github.com/XiaoLyu/LeetCode/blob/master/src/Word%20Pattern.java) | easy | Hash Table |
 | 204 | [Count Primes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Count%20Primes.java) | easy | Hash Table, Math |
+| --- | --------------------------- | ------------ | ------------ |
+| 237 | [Delete Node in a Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Delete%20Node%20in%20a%20Linked%20List.java) | easy | Linked List |
+| 206 | [Reverse Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Linked%20List.java) | easy | Linked List |
 | --- | --------------------------- | ------------ | ------------ |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

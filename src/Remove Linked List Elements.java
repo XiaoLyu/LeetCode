@@ -6,3 +6,38 @@ Example:
 Input:  1->2->6->3->4->5->6, val = 6
 Output: 1->2->3->4->5
 */
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public ListNode removeElements(ListNode head, int val) {
+        if(head == null)	return head;
+    	if(head.next == null){
+    		if(head.val == val){
+    			return null;
+    		}
+    		else{
+    			return head;
+    		}
+    	}
+    	
+    	ListNode temp = new ListNode(-1);
+    	ListNode curr = temp;
+    	curr.next = head;
+    	while(curr != null && curr.next != null){
+    		if(curr.next.val == val){
+    			curr.next = curr.next.next;
+    		}
+    		else{
+    			curr = curr.next;
+    		}
+    	}
+    	return temp.next;
+    }
+}

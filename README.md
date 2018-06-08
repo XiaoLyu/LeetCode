@@ -12,7 +12,7 @@
 | 448 | [Find All Numbers Disappeared in an Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java) | easy | Array|
 | 717 | [1-bit and 2-bit Characters](https://github.com/XiaoLyu/LeetCode/edit/master/src/1-bit%20and%202-bit%20Characters.java) | easy | Array |
 | 830 | [Positions of Large Groups](https://github.com/XiaoLyu/LeetCode/blob/master/src/Positions%20of%20Large%20Groups.java) | easy | Array |
-| 169 | [Majority Element](https://github.com/XiaoLyu/LeetCode/blob/master/src/Majority%20Element.java) | easy | Array, Divide and Conquer, Bit Manipulation |
+| 169 | [Majority Element](https://github.com/XiaoLyu/LeetCode/blob/master/src/Majority%20Element.java) | easy | Array, Divide & Conquer, Bit Manipulation |
 | 122 | [Best Time to Buy and Sell Stock II](https://github.com/XiaoLyu/LeetCode/blob/master/src/MaxProfit.java) | easy | Array, Greedy |
 | 217 | [Contains Duplicate](https://github.com/XiaoLyu/LeetCode/blob/master/src/Contains%20Duplicate.java) | easy | Array, Hash Table |
 | 167 | [Two Sum II - Input array is sorted](https://github.com/XiaoLyu/LeetCode/blob/master/src/Input%20array%20is%20sorted.java) | easy | Array, Two pointers, Binary Search |

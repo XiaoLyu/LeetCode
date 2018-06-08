@@ -45,6 +45,7 @@
 | 665 | [Non-decreasing Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Non-decreasing%20Array.java) | easy | Array |
 | --- | --------------------------- | ------------ | ------------ |
 | 237 | [Delete Node in a Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Delete%20Node%20in%20a%20Linked%20List.java) | easy | Linked List |
+| 206 | [Reverse Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Linked%20List.java) | easy | Linked List |
 | --- | --------------------------- | ------------ | ------------ |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table | 

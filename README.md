@@ -70,6 +70,7 @@
 | --- | --------------------------- | ------------ | ------------ |
 | 237 | [Delete Node in a Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Delete%20Node%20in%20a%20Linked%20List.java) | easy | Linked List |
 | 206 | [Reverse Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Linked%20List.java) | easy | Linked List |
+| 21 | [Merge Two Sorted Lists](https://github.com/XiaoLyu/LeetCode/blob/master/src/Merge%20Two%20Sorted%20Lists.java) | easy | Linked List |
 | --- | --------------------------- | ------------ | ------------ |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

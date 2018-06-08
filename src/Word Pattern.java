@@ -22,3 +22,26 @@ Output: false
 Notes:
 You may assume pattern contains only lowercase letters, and str contains lowercase letters separated by a single space.
 */
+
+class Solution {
+    public boolean wordPattern(String pattern, String str) {
+        String[] sepStr = str.split(" ");
+        if(sepStr.length != pattern.length()){
+        	return false;
+        }
+        
+        for(int i = 0; i < pattern.length(); i++){
+        	Character c = pattern.charAt(i);
+        	int index = pattern.indexOf(c);
+        	
+        	String s = sepStr[i];
+        	int sIndex = Arrays.asList(sepStr).indexOf(s);
+        	
+        	if(index != sIndex){
+        		return false;
+        	}
+        }
+        
+        return true;
+    }
+}

@@ -13,6 +13,7 @@ Follow up:
 Could you do it in O(n) time and O(1) space?
 */
 
+// 不能reverse all, head会在原来的位置，head->next == null
 import java.util.HashMap;
 import java.util.Map;
 

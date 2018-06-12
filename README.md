@@ -75,6 +75,7 @@
 | 141 | [Linked List Cycle](https://github.com/XiaoLyu/LeetCode/blob/master/src/Linked%20List%20Cycle.java) | easy | Linked List, Two Pointers |
 | 203 | [Remove Linked List Elements](https://github.com/XiaoLyu/LeetCode/blob/master/src/Remove%20Linked%20List%20Elements.java) | easy | Linked List |
 | 234 | [Palindrome Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Palindrome%20Linked%20List.java) | easy | Linked List, Two Pointers |
+| 160 | [Intersection of Two Linked Lists](https://github.com/XiaoLyu/LeetCode/blob/master/src/Intersection%20of%20Two%20Linked%20Lists.java) | easy | Linked List |
 | --- | --------------------------- | ------------ | ------------ |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |

@@ -34,7 +34,7 @@ Special thanks to @stellari for adding this problem and creating all test cases.
  * }
  */
 
-// a smart way, without different length of two lists
+// a smart way, without different length of two lists, counteract the difference by connecting two lists
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         if(headA == null || headB == null) return null;
@@ -50,3 +50,5 @@ public class Solution {
     	 return a;
     }
 }
+
+// another way: using different length of two list. Calculate the difference and start from the same position

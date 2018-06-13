@@ -33,6 +33,8 @@ Special thanks to @stellari for adding this problem and creating all test cases.
  *     }
  * }
  */
+
+// a smart way, without different length of two lists
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         if(headA == null || headB == null) return null;

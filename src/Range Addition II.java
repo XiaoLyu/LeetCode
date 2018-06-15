@@ -32,3 +32,32 @@ The range of m and n is [1,40000].
 The range of a is [1,m], and the range of b is [1,n].
 The range of operations size won't exceed 10,000.
 */
+
+class Solution {
+    public int maxCount(int m, int n, int[][] ops) {
+        if(ops == null || ops.length == 0){
+        	return m*n;
+        }
+        else{
+        	int x = Integer.MAX_VALUE;
+        	int y = Integer.MAX_VALUE;
+        	
+        	for(int[] op : ops){
+        		if(op[0] < x){
+        			x = op[0];
+        		}
+        		if(op[1] < y){
+        			y = op[1];
+        		}
+        	}
+        	if(x == Integer.MAX_VALUE){
+        		x = m;
+        	}
+        	if(y == Integer.MAX_VALUE){
+        		y = n;
+        	}
+        	
+        	return x*y;
+        }
+    }
+}

@@ -85,6 +85,7 @@
 | 453 | [Minimum Moves to Equal Array Elements](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Moves%20to%20Equal%20Array%20Elements.java) | easy | Math |
 | 598 | [Range Addition II](https://github.com/XiaoLyu/LeetCode/blob/master/src/Range%20Addition%20II.java) | easy | Math |
 | 415 | [Add Strings](https://github.com/XiaoLyu/LeetCode/blob/master/src/Add%20Strings.java) | easy | Math |
+| 231 | [Power of Two](https://github.com/XiaoLyu/LeetCode/blob/master/src/Power%20of%20Two.java) | easy | Math, Bit Manipulation |
 | --- | --------------------------- | ------------ | ------------ |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |

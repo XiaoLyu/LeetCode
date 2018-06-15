@@ -16,3 +16,28 @@ Example 3:
 Input: 218
 Output: false
 */
+
+class Solution {
+    public boolean isPowerOfTwo(int n) {
+        if(n == 1)	return true;
+        if(n <= 0) 	return false;
+        else{
+        	while(n>1){
+        		if(n%2 != 0){
+        			return false;
+        		}
+        		n = n/2;
+        	}
+        	return true;
+        }
+    }
+}
+
+// bit manipulation
+class Solution {
+    public boolean isPowerOfTwo(int n) {
+        if(n < 1)	return false;
+        
+        return (Integer.bitCount(n) == 1);
+    }
+}

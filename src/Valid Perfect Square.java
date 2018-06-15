@@ -37,5 +37,6 @@ class Solution {
     }
 }
 
+// binary search
 // Newton's method 牛顿迭代法
 // O(1) time Newton's method进阶版：fast inverse square root implementation from Quake III Arena

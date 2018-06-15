@@ -18,3 +18,13 @@ Notes:
 Both rectangles rec1 and rec2 are lists of 4 integers.
 All coordinates in rectangles will be between -10^9 and 10^9.
 */
+
+class Solution {
+    public boolean isRectangleOverlap(int[] rec1, int[] rec2) {
+         if(rec2[2] <= rec1[0] || rec2[0] >= rec1[2] || rec2[1] >= rec1[3] || rec2[3] <= rec1[1]){
+    		return false;
+    	}
+    	else
+    		return true;
+    }
+}

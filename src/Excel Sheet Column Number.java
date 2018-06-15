@@ -24,3 +24,14 @@ Example 3:
 Input: "ZY"
 Output: 701
 */
+
+class Solution {
+    public int titleToNumber(String s) {
+        int length = s.length();
+    	double sum = 0;
+    	for(int i = 0; i < length; i++){
+    		sum = sum + (s.charAt(i) - 'A' + 1) * Math.pow(26, length-i-1);
+    	}
+    	return (int)sum;
+    }
+}

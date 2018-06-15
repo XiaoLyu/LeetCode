@@ -23,3 +23,26 @@ Note:
 1 is typically treated as an ugly number.
 Input is within the 32-bit signed integer range: [−231,  231 − 1].
 */
+
+class Solution {
+    public boolean isUgly(int num) {
+        if(num <=0) return false;
+        while(num > 1){
+        	if(num % 2 != 0 && num % 3 != 0 && num % 5 != 0){
+        		return false;
+        	}
+        	else{
+        		if(num % 2 == 0){
+        			num = num/2;
+        		}
+        		else if(num % 3 == 0){
+        			num = num/3;
+        		}
+        		else if(num % 5 == 0){
+        			num = num/5;
+        		}
+        	}
+        }
+    	return true;
+    }
+}

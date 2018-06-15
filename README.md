@@ -80,6 +80,7 @@
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 812 | [Largest Triangle Area](https://github.com/XiaoLyu/LeetCode/blob/master/src/Largest%20Triangle%20Area.java) | easy | Math |
 | 258 | [Add Digits](https://github.com/XiaoLyu/LeetCode/blob/master/src/Add%20Digits.java) | easy | Math |
+| 171 | [Excel Sheet Column Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Excel%20Sheet%20Column%20Number.java) | easy | Math |
 | --- | --------------------------- | ------------ | ------------ |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |

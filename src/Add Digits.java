@@ -10,3 +10,12 @@ Explanation: The process is like: 3 + 8 = 11, 1 + 1 = 2.
 Follow up:
 Could you do it without any loop/recursion in O(1) runtime?
 */
+
+class Solution {
+    public int addDigits(int num) {
+        if(num == 0) return 0;
+        else{
+            return num%9 == 0 ? 9: num%9;
+        }
+    }
+}

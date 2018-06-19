@@ -25,7 +25,7 @@ class Solution {
     }
 }
 
-// 1+3+5+... = N^2
+// 1+3+5+... = N^2  Time Complexity: O(sqrt(N))
 class Solution {
     public boolean isPerfectSquare(int num) {
         int i = 1;
@@ -37,6 +37,26 @@ class Solution {
     }
 }
 
-// binary search
-// Newton's method 牛顿迭代法
+// binary search    Time Complexity O(logN)
+class Solution {
+    public boolean isPerfectSquare(int num) {
+        if(num < 1) return false;
+    	long left = 1, right = num, mid = (left + right)/2;
+    	while(left <= right){
+    		if(mid*mid < num){
+    			left = mid+1;
+    			mid = (left + right)/2;
+    		}else if(mid * mid > num){
+    			right = mid-1;
+    			mid = (left + right)/2;
+    		}
+    		else{
+    			return true;
+    		}
+    	}
+    	return false;
+    }
+}
+
+// Newton's method 牛顿迭代法     Time Complexity is close to constant
 // O(1) time Newton's method进阶版：fast inverse square root implementation from Quake III Arena

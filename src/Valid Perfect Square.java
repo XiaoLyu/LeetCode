@@ -71,3 +71,4 @@ class Solution {
 }
 
 // O(1) time Newton's method进阶版：fast inverse square root implementation from Quake III Arena
+// https://leetcode.com/problems/valid-perfect-square/discuss/83872/O(1)-time-c++-solution-inspired-by-Q_rsqrt

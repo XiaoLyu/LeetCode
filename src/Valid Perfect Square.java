@@ -59,4 +59,15 @@ class Solution {
 }
 
 // Newton's method 牛顿迭代法     Time Complexity is close to constant
+// X1 = (X0+num/X0)/f'(x) 这里f'(x) = 2
+class Solution {
+    public boolean isPerfectSquare(int num) {
+        long t = num;
+    	while(t * t > num){
+    		t = (t + num/t)/2;
+    	}
+    	return t * t == num;
+    }
+}
+
 // O(1) time Newton's method进阶版：fast inverse square root implementation from Quake III Arena

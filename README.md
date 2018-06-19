@@ -90,6 +90,7 @@
 | 836 | [Rectangle Overlap](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rectangle%20Overlap.java) | easy | Math |
 | 263 | [Ugly Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Ugly%20Number.java) | easy | Math |
 | 367 | [Valid Perfect Square](https://github.com/XiaoLyu/LeetCode/blob/master/src/Valid%20Perfect%20Square.java) | easy | Math, Binary Search |
+| 172 | [Factorial Trailing Zeroes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Factorial%20Trailing%20Zeroes.java) | easy | Math |
 | --- | --------------------------- | ------------ | ------------ |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |

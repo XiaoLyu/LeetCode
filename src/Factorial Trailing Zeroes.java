@@ -13,3 +13,17 @@ Output: 1
 Explanation: 5! = 120, one trailing zero.
 Note: Your solution should be in logarithmic time complexity.
 */
+
+class Solution {
+    public int trailingZeroes(int n) {
+        int Fives = 0;
+        
+        int curr = n;
+        while(curr > 0){
+        	curr = curr/5;
+        	Fives = Fives + curr;
+        }
+        
+        return Fives;
+    }
+}

@@ -24,3 +24,15 @@ Example 3:
 Input: 701
 Output: "ZY"
 */
+
+class Solution {
+    public String convertToTitle(int n) {
+       StringBuilder result = new StringBuilder();
+        while(n > 0){
+        	int remain = (n-1) % 26;
+        	result.append((char)('A' + remain));
+        	n = (n-1) /26;
+        }
+        return result.reverse().toString();
+    }
+}

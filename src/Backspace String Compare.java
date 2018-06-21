@@ -30,3 +30,50 @@ Follow up:
 
 Can you solve it in O(N) time and O(1) space?
 */
+
+class Solution {
+    public boolean backspaceCompare(String S, String T) {
+        Stack<Character> result1 = new Stack<Character>();
+        Stack<Character> result2 = new Stack<Character>();
+        for(Character c: S.toCharArray()){
+        	if(!c.equals('#')){
+        		result1.push(c);
+        	}
+        	else{
+        		if(result1.size() > 0){
+        			result1.pop();
+        		}
+        	}
+        }
+        
+        for(Character c: T.toCharArray()){
+        	if(!c.equals('#')){
+        		result2.push(c);
+        	}
+        	else{
+        		if(result2.size() > 0){
+            		result2.pop();
+        		}
+        	}
+        }
+        
+        if(result1.size() == 0 && result2.size() == 0){
+        	return true;
+        }
+        else if(result1.size() == 0 || result2.size() == 0){
+        	return false;
+        }
+        else if(result1.size() == result2.size()){
+        	while(result1.size() != 0){
+        		if(!result1.pop().equals(result2.pop())){
+            		return false;
+            	}
+        	}
+        }
+        else{
+        	return false;
+        }
+        	
+        return true;
+    }
+}

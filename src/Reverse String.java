@@ -16,3 +16,5 @@ class Solution {
         return result.toString();
     }
 }
+
+// two pointers: temp交换／^交换

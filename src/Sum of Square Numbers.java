@@ -9,3 +9,19 @@ Example 2:
 Input: 3
 Output: False
 */
+
+class Solution {
+    public boolean judgeSquareSum(int c) {
+        int large = (int) Math.sqrt(c);
+		int small = 0;
+
+		for (small = (int) Math.sqrt(c / 2); small <= large; small++) {
+			int remain = c - small * small;
+			int i = (int) Math.sqrt(remain);
+			if (i * i == remain) {
+				return true;
+			}
+		}
+		return false;
+    }
+}

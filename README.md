@@ -101,6 +101,8 @@
 | 168 | [Excel Sheet Column Title](https://github.com/XiaoLyu/LeetCode/blob/master/src/Excel%20Sheet%20Column%20Title.java) | easy | Math |
 | 7 | [Reverse Integer](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Integer.java) | easy | Math |
 | --- | --------------------------- | ------------ | ------------ |
+| 344 | [Reverse String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20String.java) | easy | Two Pointers, String |
+| --- | --------------------------- | ------------ | ------------ |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |
 | 806 | [Number of Lines To Write String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Lines%20To%20Write%20String.java) | easy | |

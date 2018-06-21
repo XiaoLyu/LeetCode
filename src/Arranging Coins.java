@@ -27,3 +27,11 @@ The coins can form the following rows:
 
 Because the 4th row is incomplete, we return 3.
 */
+
+class Solution {
+    public int arrangeCoins(int n) {
+        int g = (int)(Math.sqrt(0.25 + (long)2*n) - 0.5);
+        
+        return g;
+    }
+}

@@ -102,6 +102,7 @@
 | 7 | [Reverse Integer](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Integer.java) | easy | Math |
 | --- | --------------------------- | ------------ | ------------ |
 | 344 | [Reverse String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20String.java) | easy | Two Pointers, String |
+| 844 | [Backspace String Compare](https://github.com/XiaoLyu/LeetCode/blob/master/src/Backspace%20String%20Compare.java) | easy | Two Pointers, Stack |
 | --- | --------------------------- | ------------ | ------------ |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |

@@ -16,3 +16,14 @@ Output: 2
 Explanation: The square root of 8 is 2.82842..., and since 
              the decimal part is truncated, 2 is returned.
 */
+
+// 同 Valid Perfect Square
+class Solution {
+    public int mySqrt(int x) {
+        long t = x;
+    	while(t * t > x){
+    		t = (t + x/t)/2;
+    	}
+    	return (int)t;
+    }
+}

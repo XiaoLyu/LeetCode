@@ -92,6 +92,7 @@
 | 367 | [Valid Perfect Square](https://github.com/XiaoLyu/LeetCode/blob/master/src/Valid%20Perfect%20Square.java) | easy | Math, Binary Search |
 | 172 | [Factorial Trailing Zeroes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Factorial%20Trailing%20Zeroes.java) | easy | Math |
 | 9 | [Palindrome Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Palindrome%20Number.java) | easy | Math |
+| 441 | [Arranging Coins](https://github.com/XiaoLyu/LeetCode/blob/master/src/Arranging%20Coins.java) | easy | Math, Binary Search |
 | --- | --------------------------- | ------------ | ------------ |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |

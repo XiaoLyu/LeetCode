@@ -97,6 +97,7 @@
 | 507 | [Perfect Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Perfect%20Number.java) | easy | Math |
 | 633 | [Sum of Square Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Sum%20of%20Square%20Numbers.java) | easy | Math |
 | 400 | [Nth Digit](https://github.com/XiaoLyu/LeetCode/blob/master/src/Nth%20Digit.java) | easy | Math |
+| 69 | [Sqrt(x)](https://github.com/XiaoLyu/LeetCode/blob/master/src/Sqrt(x).java) | easy | Math, Binary Search |
 | --- | --------------------------- | ------------ | ------------ |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |

@@ -95,6 +95,7 @@
 | 441 | [Arranging Coins](https://github.com/XiaoLyu/LeetCode/blob/master/src/Arranging%20Coins.java) | easy | Math, Binary Search |
 | 67 | [Add Binary](https://github.com/XiaoLyu/LeetCode/blob/master/src/Add%20Binary.java) | easy | Math, String |
 | 507 | [Perfect Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Perfect%20Number.java) | easy | Math |
+| 633 | [Sum of Square Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Sum%20of%20Square%20Numbers.java) | easy | Math |
 | --- | --------------------------- | ------------ | ------------ |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |

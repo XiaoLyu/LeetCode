@@ -32,7 +32,7 @@ class Solution {
     		chars[start] = chars[end];
     		chars[end] = temp;
             
-            start++;
+        start++;
     		end--;
     	}
     	return String.valueOf(chars);

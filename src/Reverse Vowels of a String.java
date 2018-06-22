@@ -11,6 +11,7 @@ Note:
 The vowels does not include the letter "y".
 */
 
+// 也可以用Set存vowels
 class Solution {
     public String reverseVowels(String s) {
         if(s == null || s.length() == 0)	return s;
@@ -33,7 +34,7 @@ class Solution {
     		chars[end] = temp;
             
             start++;
-    		end--;
+            end--;
     	}
     	return String.valueOf(chars);
     }

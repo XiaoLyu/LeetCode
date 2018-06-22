@@ -10,3 +10,30 @@ Example 2:
 Input: "LL"
 Output: false
 */
+
+class Solution {
+    public boolean judgeCircle(String moves) {
+        int UD = 0;
+		int LR = 0;
+		for(Character c: moves.toCharArray()){
+			switch(c){
+				case 'U':
+					UD++;
+					break;
+				case 'D':
+					UD--;
+					break;
+				case 'L':
+					LR--;
+					break;
+				case 'R':
+					LR++;
+					break;
+			}
+		}
+		if(UD == 0 && LR == 0){
+			return true;
+		}
+		return false;
+    }
+}

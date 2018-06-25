@@ -32,3 +32,33 @@ Notes:
 S contains only uppercase, lowercase and spaces. Exactly one space between each word.
 1 <= S.length <= 150.
 */
+
+class Solution {
+    public String toGoatLatin(String S) {
+        String vowels = "aeiouAEIOU";
+        String[] splits = S.split(" ");
+        StringBuilder result =  new StringBuilder();
+        for(int i = 0; i < splits.length; i++){
+        	// begins with a vowel
+        	if(vowels.contains(splits[i].charAt(0)+"")){
+        		result.append(splits[i] + "ma");
+        		for(int j = 0; j <= i; j++){
+        			result.append("a");
+        		}
+        		result.append(" ");
+        	}
+        	// begins with a consonant
+        	else{
+        		char firstL = splits[i].charAt(0);
+        		String remains = splits[i].substring(1, splits[i].length());
+        		result.append(remains + firstL + "ma");
+        		for(int j = 0; j <= i; j++){
+        			result.append("a");
+        		}
+        		result.append(" ");
+        	}
+        }
+        
+        return result.toString().trim();
+    }
+}

@@ -113,6 +113,7 @@
 | 824 | [Goat Latin](https://github.com/XiaoLyu/LeetCode/blob/master/src/Goat%20Latin.java) | easy | String |
 | 520 | [Detect Capital](https://github.com/XiaoLyu/LeetCode/blob/master/src/Detect%20Capital.java) | easy | String |
 | 788 | [Rotated Digits](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotated%20Digits.java) | easy | String |
+| 696 | [Count Binary Substrings](https://github.com/XiaoLyu/LeetCode/blob/master/src/Count%20Binary%20Substrings.java) | easy | String |
 | --- | --------------------------- | ------------ | ------------ |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |

@@ -15,3 +15,38 @@ Input: "FlaG"
 Output: False
 Note: The input will be a non-empty word consisting of uppercase and lowercase latin letters.
 */
+
+class Solution {
+    public boolean detectCapitalUse(String word) {
+        boolean result = true;
+		if(word.length() >= 2){
+			if(Character.isUpperCase(word.charAt(0))){
+				// AA
+				if(Character.isUpperCase(word.charAt(1))){
+					for(int i = 2; i < word.length(); i++){
+						if(Character.isLowerCase(word.charAt(i))){
+							result = false;
+						}
+					}
+				}
+				// Aa
+				else{
+					for(int i = 2; i < word.length(); i++){
+						if(Character.isUpperCase(word.charAt(i))){
+							result = false;
+						}
+					}
+				}
+			}
+			// a
+			else{
+				for(int i = 1; i < word.length(); i++){
+					if(Character.isUpperCase(word.charAt(i))){
+						result = false;
+					}
+				}
+			}
+		}
+		return result;
+    }
+}

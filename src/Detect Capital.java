@@ -50,3 +50,5 @@ class Solution {
 		return result;
     }
 }
+
+// 也可以用sum of uppercase indexes

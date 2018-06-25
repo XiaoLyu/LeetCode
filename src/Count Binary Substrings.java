@@ -20,3 +20,26 @@ Note:
 s.length will be between 1 and 50,000.
 s will only consist of "0" or "1" characters.
 */
+
+class Solution {
+    public int countBinarySubstrings(String s) {
+        int prep = 0;
+    	int curr = 1;
+    	int result = 0;
+    	
+    	for(int i = 1; i < s.length(); i++){
+		
+			if(s.charAt(i) == s.charAt(i-1)){
+				curr++;
+			}
+			else{
+				prep = curr;
+				curr = 1;
+			}
+			if(prep >= curr){
+				result++;
+			}
+    	}
+    	return result;
+    }
+}

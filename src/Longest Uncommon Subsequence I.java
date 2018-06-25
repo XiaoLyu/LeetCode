@@ -16,3 +16,21 @@ Note:
 Both strings' lengths will not exceed 100.
 Only letters from a ~ z will appear in input strings.
 */
+
+class Solution {
+    public int findLUSlength(String a, String b) {
+        int result = 0;
+		if(a.length() > b.length()){
+			result = a.length();
+		}else if(b.length() > a.length()){
+			result = b.length();
+		}else if(a.length() == b.length()){
+			if(a.equals(b)){
+				result =  -1;
+			}else{
+				result = a.length();
+			}
+		}
+		return result;
+    }
+}

@@ -17,3 +17,5 @@ class Solution {
     	return strs.length;
     }
 }
+
+// in-place, ' ' segment begins -> count++

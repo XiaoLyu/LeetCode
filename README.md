@@ -121,6 +121,7 @@
 | 541 | [Reverse String II](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20String%20II.java) | easy | String |
 | 459 | [Repeated Substring Pattern](https://github.com/XiaoLyu/LeetCode/blob/master/src/Repeated%20Substring%20Pattern.java) | easy | String |
 | 38 | [Count and Say](https://github.com/XiaoLyu/LeetCode/blob/master/src/Count%20and%20Say.java) | easy | String |
+| 434 | [Number of Segments in a String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Segments%20in%20a%20String.java) | easy | String |
 | --- | --------------------------- | ------------ | ------------ |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |

@@ -22,3 +22,25 @@ Example 2:
 Input: 4
 Output: "1211"
 */
+
+class Solution {
+    public String countAndSay(int n) {
+        if(n == 1){
+    		return "1";
+    	}
+    	
+    	String str = countAndSay(n-1);
+    	char[] chars = (str + " ").toCharArray();
+    	String s = "";
+    	int count = 1;
+    	for(int i = 0; i < chars.length-1; i++){
+    		if(chars[i] == chars[i+1]){
+    			count++;
+    		}else{
+    			s = s + count + chars[i];
+    			count = 1;
+    		}
+    	}
+    	return s;
+    }
+}

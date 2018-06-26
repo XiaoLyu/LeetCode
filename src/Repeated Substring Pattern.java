@@ -17,3 +17,21 @@ Output: True
 
 Explanation: It's the substring "abc" four times. (And the substring "abcabc" twice.)
 */
+
+class Solution {
+    public boolean repeatedSubstringPattern(String s) {
+        int len = s.length();
+        for(int i = 1; i < len; i++){
+        	if(len%i == 0){
+        		int c = len/i;
+        		StringBuilder sbuilder = new StringBuilder();
+        		String str = s.substring(0, i);
+        		for(int j = 0; j < c; j++){
+        			sbuilder.append(str);
+        		}
+        		if(sbuilder.toString().equals(s))	return true;
+        	}
+        }
+        return false;
+    }
+}

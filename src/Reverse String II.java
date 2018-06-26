@@ -7,3 +7,19 @@ Restrictions:
 The string consists of lower English letters only.
 Length of the given string and k will in the range [1, 10000]
 */
+
+class Solution {
+    public String reverseStr(String s, int k) {
+        char[] chars = s.toCharArray();
+    	for(int i = 0; i < s.length(); i = i + 2*k){
+    		int j = i;
+    		int m = Math.min(s.length()-1, i + k - 1);
+    		while(j < m){
+    			char temp = chars[j];
+    			chars[j++] = chars[m];
+    			chars[m--] = temp;
+    		}
+    	}
+    	return String.valueOf(chars);
+    }
+}

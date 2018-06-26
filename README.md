@@ -119,6 +119,7 @@
 | 383 | [Ransom Note](https://github.com/XiaoLyu/LeetCode/blob/master/src/Ransom%20Note.java) | easy | String |
 | 551 | [Student Attendance Record I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Student%20Attendance%20Record%20I.java) | easy | String |
 | 541 | [Reverse String II](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20String%20II.java) | easy | String |
+| 459 | [Repeated Substring Pattern](https://github.com/XiaoLyu/LeetCode/blob/master/src/Repeated%20Substring%20Pattern.java) | easy | String |
 | --- | --------------------------- | ------------ | ------------ |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |

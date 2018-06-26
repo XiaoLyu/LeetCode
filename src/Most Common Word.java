@@ -27,3 +27,32 @@ Different words in paragraph are always separated by a space.
 There are no hyphens or hyphenated words.
 Words only consist of letters, never apostrophes or other punctuation symbols.
 */
+
+class Solution {
+    public String mostCommonWord(String paragraph, String[] banned) {
+         Map<String, Integer> map = new HashMap<>();
+        Set<String> set = new HashSet<>(); 
+        Collections.addAll(set, banned);
+        int max = Integer.MIN_VALUE;
+        String result = "";
+        
+        String pattern = "[!?',;.]";
+        paragraph = paragraph.replaceAll(pattern, "");
+        paragraph = paragraph.toLowerCase();
+        
+        String[] words = paragraph.split(" ");
+        for(String word: words){
+        	if(map.containsKey(word)){
+        		map.put(word, map.get(word)+1);
+        	}
+        	else{
+        		map.put(word, 1);
+        	}
+        	if(map.get(word) > max && !set.contains(word)){
+        		max = map.get(word);
+        		result = word;
+        	}
+        }
+        return result;
+    }
+}

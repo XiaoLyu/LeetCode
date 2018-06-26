@@ -25,22 +25,23 @@ Output: "1211"
 
 class Solution {
     public String countAndSay(int n) {
-        if(n == 1){
+      if(n == 1){
     		return "1";
     	}
     	
     	String str = countAndSay(n-1);
     	char[] chars = (str + " ").toCharArray();
-    	String s = "";
+    	StringBuilder s = new StringBuilder();
     	int count = 1;
     	for(int i = 0; i < chars.length-1; i++){
     		if(chars[i] == chars[i+1]){
     			count++;
     		}else{
-    			s = s + count + chars[i];
+    			s.append(count);
+    			s.append(chars[i]);
     			count = 1;
     		}
     	}
-    	return s;
+    	return String.valueOf(s);
     }
 }

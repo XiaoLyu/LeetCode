@@ -29,3 +29,30 @@ Output: "1(2()(4))(3)"
 Explanation: Almost the same as the first example, 
 except we can't omit the first parenthesis pair to break the one-to-one mapping relationship between the input and the output.
 */
+
+// using recursion: 分不同情况
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public String tree2str(TreeNode t) {
+        if(t == null){
+    		return "";
+    	}
+    	if(t.left == null && t.right == null){
+    		return t.val + "";
+    	}
+    	if(t.right == null){
+    		return t.val + "(" + tree2str(t.left) + ")";
+    	}
+    	return t.val + "(" + tree2str(t.left) + ")(" + tree2str(t.right) + ")"; 
+    }
+}
+
+// using stack (iteration)

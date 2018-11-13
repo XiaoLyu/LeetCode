@@ -110,6 +110,7 @@
 | 28 | [Implement strStr()](https://github.com/XiaoLyu/LeetCode/blob/master/src/Implement%20strStr().java) | easy | Two Pointers, String |
 | 125 | [Valid Palindrome](https://github.com/XiaoLyu/LeetCode/blob/master/src/Valid%20Palindrome.java) | easy | Two Pointers, String |
 | --- | --------------------------- | ------------ | ------------ |
+| 929 | [Unique Email Addresses](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Email%20Addresses.java) | easy | String |
 | 709 | [To Lower Case](https://github.com/XiaoLyu/LeetCode/blob/master/src/To%20Lower%20Case.java) | easy | String |
 | 657 | [Judge Route Circle](https://github.com/XiaoLyu/LeetCode/blob/master/src/Judge%20Route%20Circle.java) | easy | String |
 | 557 | [Reverse Words in a String III](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Words%20in%20a%20String%20III.java) | easy | String |

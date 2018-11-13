@@ -2,6 +2,7 @@
 
 |  #  |             title           |  difficulty  |      tag     |
 | --- | --------------------------- | ------------ | ------------ |
+| 905 | [Sort Array By Parity](https://github.com/XiaoLyu/LeetCode/blob/master/src/Sort%20Array%20By%20Parity.java) | easy | Array |
 | 832 | [Flipping an Image](https://github.com/XiaoLyu/LeetCode/blob/master/src/Flipping%20an%20Image.java) | easy | Array |
 | 561 | [Array Partition I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Array%20Partition%20I.java) | easy | Array |
 | 867 | [Transpose Matrix](https://github.com/XiaoLyu/LeetCode/blob/master/src/Transpose%20Matrix.java) | easy | Array |

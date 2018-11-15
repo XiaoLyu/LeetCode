@@ -137,3 +137,4 @@
 | 806 | [Number of Lines To Write String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Lines%20To%20Write%20String.java) | easy | |
 | 908 | [Smallest Range I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Smallest%20Range%20I.java) | easy | |
 | 589 | [N-ary Tree Preorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Preorder%20Traversal.java) | easy | Tree |
+| 590 | [N-ary Tree Postorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Postorder%20Traversal.java) | easy | Tree |

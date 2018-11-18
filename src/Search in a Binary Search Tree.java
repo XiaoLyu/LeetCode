@@ -30,6 +30,7 @@ Note that an empty tree is represented by NULL, therefore you would see the expe
  *     TreeNode(int x) { val = x; }
  * }
  */
+
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
        TreeNode result = root;

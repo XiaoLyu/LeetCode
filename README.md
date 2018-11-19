@@ -116,6 +116,7 @@
 | 709 | [To Lower Case](https://github.com/XiaoLyu/LeetCode/blob/master/src/To%20Lower%20Case.java) | easy | String |
 | 657 | [Judge Route Circle](https://github.com/XiaoLyu/LeetCode/blob/master/src/Judge%20Route%20Circle.java) | easy | String |
 | 557 | [Reverse Words in a String III](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Words%20in%20a%20String%20III.java) | easy | String |
+| 893 | [Groups of Special-Equivalent Strings](https://github.com/XiaoLyu/LeetCode/blob/master/src/Groups%20of%20Special-Equivalent%20Strings.java) | easy | String |
 | 521 | [Longest Uncommon Subsequence I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Longest%20Uncommon%20Subsequence%20I.java) | easy | String |
 | 824 | [Goat Latin](https://github.com/XiaoLyu/LeetCode/blob/master/src/Goat%20Latin.java) | easy | String |
 | 520 | [Detect Capital](https://github.com/XiaoLyu/LeetCode/blob/master/src/Detect%20Capital.java) | easy | String |

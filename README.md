@@ -139,3 +139,4 @@
 | 589 | [N-ary Tree Preorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Preorder%20Traversal.java) | easy | Tree |
 | 590 | [N-ary Tree Postorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Postorder%20Traversal.java) | easy | Tree |
 | 700 | [Search in a Binary Search Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Search%20in%20a%20Binary%20Search%20Tree.java) | easy | Tree |
+| 559 | [Maximum Depth of N-ary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Maximum%20Depth%20of%20N-ary%20Tree.java) | easy | Tree |

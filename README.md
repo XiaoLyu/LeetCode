@@ -141,6 +141,7 @@
 | 806 | [Number of Lines To Write String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Lines%20To%20Write%20String.java) | easy | |
 | 908 | [Smallest Range I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Smallest%20Range%20I.java) | easy | |
 | 821 | [Shortest Distance to a Character](https://github.com/XiaoLyu/LeetCode/blob/master/src/Shortest%20Distance%20to%20a%20Character.java) | easy | |
+| 412 | [Fizz Buzz](https://github.com/XiaoLyu/LeetCode/blob/master/src/Fizz%20Buzz.java) | easy | |
 | 589 | [N-ary Tree Preorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Preorder%20Traversal.java) | easy | Tree |
 | 590 | [N-ary Tree Postorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Postorder%20Traversal.java) | easy | Tree |
 | 700 | [Search in a Binary Search Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Search%20in%20a%20Binary%20Search%20Tree.java) | easy | Tree |

@@ -147,4 +147,5 @@
 | 559 | [Maximum Depth of N-ary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Maximum%20Depth%20of%20N-ary%20Tree.java) | easy | Tree, BFS, DFS |
 | 872 | [Leaf-Similar Trees](https://github.com/XiaoLyu/LeetCode/blob/master/src/Leaf-Similar%20Trees.java) | eady | Tree, DFS |
 | 669 | [Trim a Binary Search Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Trim%20a%20Binary%20Search%20Tree.java) | easy | Tree |
+| 897 | [Increasing Order Search Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Increasing%20Order%20Search%20Tree.java) | easy | Tree |
 | 682 | [Baseball Game](https://github.com/XiaoLyu/LeetCode/blob/master/src/Baseball%20Game.java) | easy | Stack |

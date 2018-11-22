@@ -136,7 +136,7 @@
 | 443 | [String Compression](https://github.com/XiaoLyu/LeetCode/blob/master/src/String%20Compression.java) | easy | String |
 | --- | --------------------------- | ------------ | ------------ |
 | 933 | [Number of Recent Calls](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Recent%20Calls.java) | easy | Queue |
-| 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | String |
+| 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |
 | 806 | [Number of Lines To Write String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Lines%20To%20Write%20String.java) | easy | |
 | 908 | [Smallest Range I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Smallest%20Range%20I.java) | easy | |
@@ -153,3 +153,4 @@
 | 637 | [Average of Levels in Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Average%20of%20Levels%20in%20Binary%20Tree.java) | easy | Tree |
 | 682 | [Baseball Game](https://github.com/XiaoLyu/LeetCode/blob/master/src/Baseball%20Game.java) | easy | Stack |
 | 496 | [Next Greater Element I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Next%20Greater%20Element%20I.java) | easy | Stack |
+| 693 | [Binary Number with Alternating Bits](https://github.com/XiaoLyu/LeetCode/blob/master/src/Binary%20Number%20with%20Alternating%20Bits.java) | easy | Bit Manipulation |

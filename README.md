@@ -151,3 +151,4 @@
 | 897 | [Increasing Order Search Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Increasing%20Order%20Search%20Tree.java) | easy | Tree |
 | 104 | [Maximum Depth of Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Maximum%20Depth%20of%20Binary%20Tree.java) | easy | Tree, DFS |
 | 682 | [Baseball Game](https://github.com/XiaoLyu/LeetCode/blob/master/src/Baseball%20Game.java) | easy | Stack |
+| 496 | [Next Greater Element I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Next%20Greater%20Element%20I.java) | easy | Stack |

@@ -155,3 +155,4 @@
 | 496 | [Next Greater Element I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Next%20Greater%20Element%20I.java) | easy | Stack |
 | 693 | [Binary Number with Alternating Bits](https://github.com/XiaoLyu/LeetCode/blob/master/src/Binary%20Number%20with%20Alternating%20Bits.java) | easy | Bit Manipulation |
 | 762 | [Prime Number of Set Bits in Binary Representation](https://github.com/XiaoLyu/LeetCode/blob/master/src/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.java) | easy | Bit Manipulation |
+| 944 | [Delete Columns to Make Sorted](https://github.com/XiaoLyu/LeetCode/blob/master/src/Delete%20Columns%20to%20Make%20Sorted.java) | easy | Greedy |

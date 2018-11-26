@@ -152,6 +152,7 @@
 | 897 | [Increasing Order Search Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Increasing%20Order%20Search%20Tree.java) | easy | Tree |
 | 104 | [Maximum Depth of Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Maximum%20Depth%20of%20Binary%20Tree.java) | easy | Tree, DFS |
 | 637 | [Average of Levels in Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Average%20of%20Levels%20in%20Binary%20Tree.java) | easy | Tree |
+| 226 | [Invert Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Invert%20Binary%20Tree.java) | easy | Tree |
 | 682 | [Baseball Game](https://github.com/XiaoLyu/LeetCode/blob/master/src/Baseball%20Game.java) | easy | Stack |
 | 496 | [Next Greater Element I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Next%20Greater%20Element%20I.java) | easy | Stack |
 | 693 | [Binary Number with Alternating Bits](https://github.com/XiaoLyu/LeetCode/blob/master/src/Binary%20Number%20with%20Alternating%20Bits.java) | easy | Bit Manipulation |

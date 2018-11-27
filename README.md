@@ -47,7 +47,7 @@
 | 414 | [Third Maximum Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Third%20Maximum%20Number.java) | easy | Array |
 | 189 | [Rotate Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20Array.java) | easy | Array |
 | 665 | [Non-decreasing Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Non-decreasing%20Array.java) | easy | Array |
-| --- | --------------------------- | ------------ | ------------ |
+| --- | --------------------------- | ---------- | ------------ |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table | 
 | 500 | [Keyboard Row](https://github.com/XiaoLyu/LeetCode/blob/master/src/Keyboard%20Row.java) | easy | Hash Table |

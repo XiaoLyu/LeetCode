@@ -47,7 +47,7 @@
 | 414 | [Third Maximum Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Third%20Maximum%20Number.java) | easy | Array |
 | 189 | [Rotate Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20Array.java) | easy | Array |
 | 665 | [Non-decreasing Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Non-decreasing%20Array.java) | easy | Array |
-| --- | --------------------------- | ----------- | ------------ |
+| --- | --------------------------- | --------- | ------------ |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table | 
 | 500 | [Keyboard Row](https://github.com/XiaoLyu/LeetCode/blob/master/src/Keyboard%20Row.java) | easy | Hash Table |
@@ -72,7 +72,7 @@
 | 438 | [Find All Anagrams in a String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Find%20All%20Anagrams%20in%20a%20String.java) | easy | Hash Table |
 | 290 | [Word Pattern](https://github.com/XiaoLyu/LeetCode/blob/master/src/Word%20Pattern.java) | easy | Hash Table |
 | 204 | [Count Primes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Count%20Primes.java) | easy | Hash Table, Math |
-| --- | --------------------------- | ----------- | ------------ |
+| --- | --------------------------- | --------- | ------------ |
 | 876 | [Middle of the Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Middle%20of%20the%20Linked%20List.java) | easy | Linked List |
 | 237 | [Delete Node in a Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Delete%20Node%20in%20a%20Linked%20List.java) | easy | Linked List |
 | 206 | [Reverse Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Linked%20List.java) | easy | Linked List |
@@ -82,7 +82,7 @@
 | 203 | [Remove Linked List Elements](https://github.com/XiaoLyu/LeetCode/blob/master/src/Remove%20Linked%20List%20Elements.java) | easy | Linked List |
 | 234 | [Palindrome Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Palindrome%20Linked%20List.java) | easy | Linked List, Two Pointers |
 | 160 | [Intersection of Two Linked Lists](https://github.com/XiaoLyu/LeetCode/blob/master/src/Intersection%20of%20Two%20Linked%20Lists.java) | easy | Linked List |
-| --- | --------------------------- | ----------- | ------------ |
+| --- | --------------------------- | --------- | ------------ |
 | 728 | [Self Dividing Numbers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Self%20Dividing%20Numbers.java) | easy | Math |
 | 942 | [DI String Match](https://github.com/XiaoLyu/LeetCode/blob/master/src/DI%20String%20Match.java) | easy | Math |
 | 883 | [Projection Area of 3D Shapes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Projection%20Area%20of%203D%20Shapes.java) | easy | Math |
@@ -110,13 +110,13 @@
 | 69 | [Sqrt(x)](https://github.com/XiaoLyu/LeetCode/blob/master/src/Sqrt(x).java) | easy | Math, Binary Search |
 | 168 | [Excel Sheet Column Title](https://github.com/XiaoLyu/LeetCode/blob/master/src/Excel%20Sheet%20Column%20Title.java) | easy | Math |
 | 7 | [Reverse Integer](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Integer.java) | easy | Math |
-| --- | --------------------------- | ----------- | ------------ |
+| --- | --------------------------- | --------- | ------------ |
 | 344 | [Reverse String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20String.java) | easy | Two Pointers, String |
 | 844 | [Backspace String Compare](https://github.com/XiaoLyu/LeetCode/blob/master/src/Backspace%20String%20Compare.java) | easy | Two Pointers, Stack |
 | 345 | [Reverse Vowels of a String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Vowels%20of%20a%20String.java) | easy | Two Pointers, String |
 | 28 | [Implement strStr()](https://github.com/XiaoLyu/LeetCode/blob/master/src/Implement%20strStr().java) | easy | Two Pointers, String |
 | 125 | [Valid Palindrome](https://github.com/XiaoLyu/LeetCode/blob/master/src/Valid%20Palindrome.java) | easy | Two Pointers, String |
-| --- | --------------------------- | ----------- | ------------ |
+| --- | --------------------------- | --------- | ------------ |
 | 929 | [Unique Email Addresses](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Email%20Addresses.java) | easy | String |
 | 709 | [To Lower Case](https://github.com/XiaoLyu/LeetCode/blob/master/src/To%20Lower%20Case.java) | easy | String |
 | 657 | [Judge Route Circle](https://github.com/XiaoLyu/LeetCode/blob/master/src/Judge%20Route%20Circle.java) | easy | String |
@@ -137,7 +137,7 @@
 | 434 | [Number of Segments in a String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Segments%20in%20a%20String.java) | easy | String |
 | 443 | [String Compression](https://github.com/XiaoLyu/LeetCode/blob/master/src/String%20Compression.java) | easy | String |
 | 937 | [Reorder Log Files](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reorder%20Log%20Files.java) | easy | String |
-| --- | --------------------------- | ----------- | ------------ |
+| --- | --------------------------- | --------- | ------------ |
 | 933 | [Number of Recent Calls](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Recent%20Calls.java) | easy | Queue |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | |
 | 804 | [Unique Morse Code Words](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Morse%20Code%20Words.java) | easy | Set |
@@ -146,7 +146,7 @@
 | 821 | [Shortest Distance to a Character](https://github.com/XiaoLyu/LeetCode/blob/master/src/Shortest%20Distance%20to%20a%20Character.java) | easy | |
 | 412 | [Fizz Buzz](https://github.com/XiaoLyu/LeetCode/blob/master/src/Fizz%20Buzz.java) | easy | |
 | 917 | [Reverse Only Letters](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Only%20Letters.java) | easy | |
-| --- | --------------------------- | ----------- | ------------ |
+| --- | --------------------------- | --------- | ------------ |
 | 589 | [N-ary Tree Preorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Preorder%20Traversal.java) | easy | Tree |
 | 590 | [N-ary Tree Postorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Postorder%20Traversal.java) | easy | Tree |
 | 700 | [Search in a Binary Search Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Search%20in%20a%20Binary%20Search%20Tree.java) | easy | Tree |
@@ -158,7 +158,7 @@
 | 637 | [Average of Levels in Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Average%20of%20Levels%20in%20Binary%20Tree.java) | easy | Tree |
 | 226 | [Invert Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Invert%20Binary%20Tree.java) | easy | Tree |
 | 429 | [N-ary Tree Level Order Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Level%20Order%20Traversal.java) | easy | Tree, BFS |
-| --- | --------------------------- | ----------- | ------------ |
+| --- | --------------------------- | --------- | ------------ |
 | 682 | [Baseball Game](https://github.com/XiaoLyu/LeetCode/blob/master/src/Baseball%20Game.java) | easy | Stack |
 | 496 | [Next Greater Element I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Next%20Greater%20Element%20I.java) | easy | Stack |
 | 693 | [Binary Number with Alternating Bits](https://github.com/XiaoLyu/LeetCode/blob/master/src/Binary%20Number%20with%20Alternating%20Bits.java) | easy | Bit Manipulation |

@@ -9,6 +9,7 @@
 | 867 | [Transpose Matrix](https://github.com/XiaoLyu/LeetCode/blob/master/src/Transpose%20Matrix.java) | easy | Array |
 | 766 | [Toeplitz Matrix](https://github.com/XiaoLyu/LeetCode/blob/master/src/Toeplitz%20Matrix.java) | easy | Array |
 | 566 | [Reshape the Matrix](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reshape%20the%20Matrix.java) | easy | Array |
+| 896 | [Monotonic Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Monotonic%20Array.java) | easy | Array |
 | 485 | [Max Consecutive Ones](https://github.com/XiaoLyu/LeetCode/edit/master/src/Max%20Consecutive%20Ones.java)| easy | Array | 
 | 695 | [Max Area of Island](https://github.com/XiaoLyu/LeetCode/blob/master/src/Max%20Area%20of%20Island.java) | easy | Array, DFS|
 | 283 | [Move Zeroes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Move%20Zeroes.java) | easy | Array, Two Pointers |

@@ -87,6 +87,7 @@
 | 942 | [DI String Match](https://github.com/XiaoLyu/LeetCode/blob/master/src/DI%20String%20Match.java) | easy | Math |
 | 883 | [Projection Area of 3D Shapes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Projection%20Area%20of%203D%20Shapes.java) | easy | Math |
 | 868 | [Binary Gap](https://github.com/XiaoLyu/LeetCode/blob/master/src/Binary%20Gap.java) | easy | Math |
+| 892 | [Surface Area of 3D Shapes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Surface%20Area%20of%203D%20Shapes.java) | easy | Math, Geometry |
 | 812 | [Largest Triangle Area](https://github.com/XiaoLyu/LeetCode/blob/master/src/Largest%20Triangle%20Area.java) | easy | Math |
 | 258 | [Add Digits](https://github.com/XiaoLyu/LeetCode/blob/master/src/Add%20Digits.java) | easy | Math |
 | 171 | [Excel Sheet Column Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Excel%20Sheet%20Column%20Number.java) | easy | Math |

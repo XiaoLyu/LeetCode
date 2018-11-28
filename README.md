@@ -56,6 +56,7 @@
 | 463 | [Island Perimeter](https://github.com/XiaoLyu/LeetCode/blob/master/src/Island%20Perimeter.java) | easy | Hash Table |
 | 575 | [Distribute Candies](https://github.com/XiaoLyu/LeetCode/blob/master/src/Distribute%20Candies.java) | easy | Hash Table |
 | 136 | [Single Number](https://github.com/XiaoLyu/LeetCode/blob/master/src/Single%20Number.java) | easy | Hash Table, Bit Manipulation |
+| 748 | [Shortest Completing Word](https://github.com/XiaoLyu/LeetCode/blob/master/src/Shortest%20Completing%20Word.java) | easy | Hash Table |
 | 690 | [Employee Importance](https://github.com/XiaoLyu/LeetCode/blob/master/src/Employee%20Importance.java) | easy | Hash Table, DFS, BFS |
 | 389 | [Find the Difference](https://github.com/XiaoLyu/LeetCode/blob/master/src/Find%20the%20Difference.java) | easy | Hash Table, Bit Manipulation |
 | 349 | [Intersection of Two Arrays](https://github.com/XiaoLyu/LeetCode/blob/master/src/Intersection%20of%20Two%20Arrays.java) | easy | Hash Table, Binary Search, Two Pointers, Sort |

@@ -169,4 +169,5 @@
 | 784 | [Letter Case Permutation](https://github.com/XiaoLyu/LeetCode/blob/master/src/Letter%20Case%20Permutation.java) | easy | Backtracking, Bit Manipulation |
 | 371 | [Sum of Two Integers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Sum%20of%20Two%20Integers.java) | easy | Bit Manipulation |
 | 944 | [Delete Columns to Make Sorted](https://github.com/XiaoLyu/LeetCode/blob/master/src/Delete%20Columns%20to%20Make%20Sorted.java) | easy | Greedy |
+| 860 | [Lemonade Change](https://github.com/XiaoLyu/LeetCode/blob/master/src/Lemonade%20Change.java) | easy | Greedy |
 | 292 | [Nim Game](https://github.com/XiaoLyu/LeetCode/blob/master/src/Nim%20Game.java) | easy | Brainteaser |

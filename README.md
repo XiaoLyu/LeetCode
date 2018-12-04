@@ -163,6 +163,7 @@
 | 226 | [Invert Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Invert%20Binary%20Tree.java) | easy | Tree |
 | 429 | [N-ary Tree Level Order Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Level%20Order%20Traversal.java) | easy | Tree, BFS |
 | 653 | [Two Sum IV - Input is a BST](https://github.com/XiaoLyu/LeetCode/blob/master/src/Two%20Sum%20IV%20-%20Input%20is%20a%20BST.java) | easy | Tree |
+| 538 | [Convert BST to Greater Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Convert%20BST%20to%20Greater%20Tree.java) | easy | Tree |
 | --- | --------------------------- | --------- | ------------ |
 | 682 | [Baseball Game](https://github.com/XiaoLyu/LeetCode/blob/master/src/Baseball%20Game.java) | easy | Stack |
 | 496 | [Next Greater Element I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Next%20Greater%20Element%20I.java) | easy | Stack |

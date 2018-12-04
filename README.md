@@ -60,6 +60,7 @@
 | 690 | [Employee Importance](https://github.com/XiaoLyu/LeetCode/blob/master/src/Employee%20Importance.java) | easy | Hash Table, DFS, BFS |
 | 389 | [Find the Difference](https://github.com/XiaoLyu/LeetCode/blob/master/src/Find%20the%20Difference.java) | easy | Hash Table, Bit Manipulation |
 | 349 | [Intersection of Two Arrays](https://github.com/XiaoLyu/LeetCode/blob/master/src/Intersection%20of%20Two%20Arrays.java) | easy | Hash Table, Binary Search, Two Pointers, Sort |
+| 706 | [Design HashMap](https://github.com/XiaoLyu/LeetCode/blob/master/src/Design%20HashMap.java) | easy | Hash Table, Design |
 | 242 | [Valid Anagram](https://github.com/XiaoLyu/LeetCode/blob/master/src/Valid%20Anagram.java) | easy | Hash Table, Sort |
 | 387 | [First Unique Character in a String](https://github.com/XiaoLyu/LeetCode/blob/master/src/First%20Unique%20Character%20in%20a%20String.java) | easy | Hash Table, String |
 | 447 | [Number of Boomerangs](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Boomerangs.java) | easy | Hash Table |

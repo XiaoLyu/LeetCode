@@ -165,6 +165,8 @@
 | 653 | [Two Sum IV - Input is a BST](https://github.com/XiaoLyu/LeetCode/blob/master/src/Two%20Sum%20IV%20-%20Input%20is%20a%20BST.java) | easy | Tree |
 | 538 | [Convert BST to Greater Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Convert%20BST%20to%20Greater%20Tree.java) | easy | Tree |
 | --- | --------------------------- | --------- | ------------ |
+| 783 | [Minimum Distance Between BST Nodes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Distance%20Between%20BST%20Nodes.java) | easy | Binary Search Tree |
+| --- | --------------------------- | --------- | ------------ |
 | 682 | [Baseball Game](https://github.com/XiaoLyu/LeetCode/blob/master/src/Baseball%20Game.java) | easy | Stack |
 | 496 | [Next Greater Element I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Next%20Greater%20Element%20I.java) | easy | Stack |
 | 693 | [Binary Number with Alternating Bits](https://github.com/XiaoLyu/LeetCode/blob/master/src/Binary%20Number%20with%20Alternating%20Bits.java) | easy | Bit Manipulation |

@@ -164,6 +164,7 @@
 | 429 | [N-ary Tree Level Order Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Level%20Order%20Traversal.java) | easy | Tree, BFS |
 | 653 | [Two Sum IV - Input is a BST](https://github.com/XiaoLyu/LeetCode/blob/master/src/Two%20Sum%20IV%20-%20Input%20is%20a%20BST.java) | easy | Tree |
 | 538 | [Convert BST to Greater Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Convert%20BST%20to%20Greater%20Tree.java) | easy | Tree |
+| 100 | [Same Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Same%20Tree.java) | easy | Tree, DFS |
 | --- | --------------------------- | --------- | ------------ |
 | 783 | [Minimum Distance Between BST Nodes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Distance%20Between%20BST%20Nodes.java) | easy | Binary Search Tree |
 | 530 | [Minimum Absolute Difference in BST](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Absolute%20Difference%20in%20BST.java) | easy | Binary Search Tree |

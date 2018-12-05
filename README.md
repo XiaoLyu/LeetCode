@@ -166,6 +166,7 @@
 | 538 | [Convert BST to Greater Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Convert%20BST%20to%20Greater%20Tree.java) | easy | Tree |
 | --- | --------------------------- | --------- | ------------ |
 | 783 | [Minimum Distance Between BST Nodes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Distance%20Between%20BST%20Nodes.java) | easy | Binary Search Tree |
+| 530 | [Minimum Absolute Difference in BST](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Absolute%20Difference%20in%20BST.java) | easy | Binary Search Tree |
 | --- | --------------------------- | --------- | ------------ |
 | 682 | [Baseball Game](https://github.com/XiaoLyu/LeetCode/blob/master/src/Baseball%20Game.java) | easy | Stack |
 | 496 | [Next Greater Element I](https://github.com/XiaoLyu/LeetCode/blob/master/src/Next%20Greater%20Element%20I.java) | easy | Stack |

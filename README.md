@@ -150,6 +150,7 @@
 | 412 | [Fizz Buzz](https://github.com/XiaoLyu/LeetCode/blob/master/src/Fizz%20Buzz.java) | easy | |
 | 917 | [Reverse Only Letters](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Only%20Letters.java) | easy | |
 | 427 | [Construct Quad Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Construct%20Quad%20Tree.java) | easy | |
+| 492 | [Construct the Rectangle](https://github.com/XiaoLyu/LeetCode/blob/master/src/Construct%20the%20Rectangle.java) | easy | |
 | --- | --------------------------- | --------- | ------------ |
 | 589 | [N-ary Tree Preorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Preorder%20Traversal.java) | easy | Tree |
 | 590 | [N-ary Tree Postorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Postorder%20Traversal.java) | easy | Tree |

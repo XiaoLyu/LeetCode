@@ -153,6 +153,7 @@
 | 492 | [Construct the Rectangle](https://github.com/XiaoLyu/LeetCode/blob/master/src/Construct%20the%20Rectangle.java) | easy | |
 | 506 | [Relative Ranks](https://github.com/XiaoLyu/LeetCode/blob/master/src/Relative%20Ranks.java) | easy | |
 | 504 | [Base 7](https://github.com/XiaoLyu/LeetCode/blob/master/src/Base%207.java) | easy | |
+| 458 | [Poor Pigs](https://github.com/XiaoLyu/LeetCode/blob/master/src/Poor%20Pigs.java) | easy | |
 | --- | --------------------------- | --------- | ------------ |
 | 589 | [N-ary Tree Preorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Preorder%20Traversal.java) | easy | Tree |
 | 590 | [N-ary Tree Postorder Traversal](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-ary%20Tree%20Postorder%20Traversal.java) | easy | Tree |

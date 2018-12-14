@@ -119,6 +119,7 @@
 | 345 | [Reverse Vowels of a String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Vowels%20of%20a%20String.java) | easy | Two Pointers, String |
 | 28 | [Implement strStr()](https://github.com/XiaoLyu/LeetCode/blob/master/src/Implement%20strStr().java) | easy | Two Pointers, String |
 | 125 | [Valid Palindrome](https://github.com/XiaoLyu/LeetCode/blob/master/src/Valid%20Palindrome.java) | easy | Two Pointers, String |
+| 925 | [Long Pressed Name](https://github.com/XiaoLyu/LeetCode/blob/master/src/Long%20Pressed%20Name.java) | easy | Two Pointers, String |
 | --- | --------------------------- | --------- | ------------ |
 | 929 | [Unique Email Addresses](https://github.com/XiaoLyu/LeetCode/blob/master/src/Unique%20Email%20Addresses.java) | easy | String |
 | 709 | [To Lower Case](https://github.com/XiaoLyu/LeetCode/blob/master/src/To%20Lower%20Case.java) | easy | String |

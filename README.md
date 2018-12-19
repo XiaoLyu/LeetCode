@@ -176,6 +176,7 @@
 | 543 | [Diameter of Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Diameter%20of%20Binary%20Tree.java) | easy | Tree |
 | 107 | [Binary Tree Level Order Traversal II](https://github.com/XiaoLyu/LeetCode/blob/master/src/Binary%20Tree%20Level%20Order%20Traversal%20II.java) | easy | Tree |
 | 671 | [Second Minimum Node In a Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Second%20Minimum%20Node%20In%20a%20Binary%20Tree.java) | easy | Tree |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java) | easy | Tree |
 | --- | --------------------------- | --------- | ------------ |
 | 783 | [Minimum Distance Between BST Nodes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Distance%20Between%20BST%20Nodes.java) | easy | Binary Search Tree |
 | 530 | [Minimum Absolute Difference in BST](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Absolute%20Difference%20in%20BST.java) | easy | Binary Search Tree |

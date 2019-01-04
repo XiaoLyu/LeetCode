@@ -195,6 +195,7 @@
 | 401 | [Binary Watch](https://github.com/XiaoLyu/LeetCode/blob/master/src/Binary%20Watch.java) | easy | Backtracking, Bit Manipulation |
 | 371 | [Sum of Two Integers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Sum%20of%20Two%20Integers.java) | easy | Bit Manipulation |
 | 405 | [Convert a Number to Hexadecimal](https://github.com/XiaoLyu/LeetCode/blob/master/src/Convert%20a%20Number%20to%20Hexadecimal.java) | easy | Bit Manipulation |
+| 191 | [Number of 1 Bits](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%201%20Bits.java) | easy | Bit Manipulation |
 | 944 | [Delete Columns to Make Sorted](https://github.com/XiaoLyu/LeetCode/blob/master/src/Delete%20Columns%20to%20Make%20Sorted.java) | easy | Greedy |
 | 860 | [Lemonade Change](https://github.com/XiaoLyu/LeetCode/blob/master/src/Lemonade%20Change.java) | easy | Greedy |
 | 455 | [Assign Cookies](https://github.com/XiaoLyu/LeetCode/blob/master/src/Assign%20Cookies.java) | easy | Greedy |

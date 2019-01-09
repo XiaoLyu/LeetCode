@@ -143,6 +143,7 @@
 | 434 | [Number of Segments in a String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Segments%20in%20a%20String.java) | easy | String |
 | 443 | [String Compression](https://github.com/XiaoLyu/LeetCode/blob/master/src/String%20Compression.java) | easy | String |
 | 937 | [Reorder Log Files](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reorder%20Log%20Files.java) | easy | String |
+| 482 | [License Key Formatting](https://github.com/XiaoLyu/LeetCode/blob/master/src/License%20Key%20Formatting.java) | easy | String |
 | --- | --------------------------- | --------- | ------------ |
 | 933 | [Number of Recent Calls](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Recent%20Calls.java) | easy | Queue |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | |

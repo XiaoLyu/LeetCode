@@ -210,3 +210,4 @@
 | 704 | [Binary Search](https://github.com/XiaoLyu/LeetCode/blob/master/src/Binary%20Search.java) | easy | Binary Search |
 | 70 | [Climbing Stairs](https://github.com/XiaoLyu/LeetCode/blob/master/src/Climbing%20Stairs.java) | easy | DP |
 | 198 | [House Robber](https://github.com/XiaoLyu/LeetCode/blob/master/src/House%20Robber.java) | easy | DP |
+| 743 | [Network Delay Time](https://github.com/XiaoLyu/LeetCode/blob/master/src/Network%20Delay%20Time.java) | easy | Heap, DFS, BFS, Graph |

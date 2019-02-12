@@ -210,6 +210,7 @@
 | 292 | [Nim Game](https://github.com/XiaoLyu/LeetCode/blob/master/src/Nim%20Game.java) | easy | Brainteaser |
 | 744 | [Find Smallest Letter Greater Than Target](https://github.com/XiaoLyu/LeetCode/blob/master/src/Find%20Smallest%20Letter%20Greater%20Than%20Target.java) | easy | Binary Search |
 | 704 | [Binary Search](https://github.com/XiaoLyu/LeetCode/blob/master/src/Binary%20Search.java) | easy | Binary Search |
+| 374 | [Guess Number Higher or Lower](https://github.com/XiaoLyu/LeetCode/blob/master/src/Guess%20Number%20Higher%20or%20Lower.java) | easy | Binary Search |
 | 70 | [Climbing Stairs](https://github.com/XiaoLyu/LeetCode/blob/master/src/Climbing%20Stairs.java) | easy | DP |
 | 198 | [House Robber](https://github.com/XiaoLyu/LeetCode/blob/master/src/House%20Robber.java) | easy | DP |
 | 743 | [Network Delay Time](https://github.com/XiaoLyu/LeetCode/blob/master/src/Network%20Delay%20Time.java) | easy | Heap, DFS, BFS, Graph |

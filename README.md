@@ -50,6 +50,7 @@
 | 665 | [Non-decreasing Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Non-decreasing%20Array.java) | easy | Array |
 | 849 | [Maximize Distance to Closest Person](https://github.com/XiaoLyu/LeetCode/blob/master/src/Maximize%20Distance%20to%20Closest%20Person.java) | easy | Array |
 | 941 | [Valid Mountain Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Valid%20Mountain%20Array.java) | easy | Array |
+| 914 | [X of a Kind in a Deck of Cards](https://github.com/XiaoLyu/LeetCode/blob/master/src/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.java) | easy | Array, Math |
 | --- | --------------------------- | --------- | ------------ |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table | 

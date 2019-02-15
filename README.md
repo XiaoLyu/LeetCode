@@ -118,6 +118,7 @@
 | 168 | [Excel Sheet Column Title](https://github.com/XiaoLyu/LeetCode/blob/master/src/Excel%20Sheet%20Column%20Title.java) | easy | Math |
 | 7 | [Reverse Integer](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20Integer.java) | easy | Math |
 | 970 | [Powerful Integers](https://github.com/XiaoLyu/LeetCode/blob/master/src/Powerful%20Integers.java) | easy | Math |
+| 949 | [Largest Time for Given Digits](https://github.com/XiaoLyu/LeetCode/blob/master/src/Largest%20Time%20for%20Given%20Digits.java) | easy | Math |
 | --- | --------------------------- | --------- | ------------ |
 | 344 | [Reverse String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Reverse%20String.java) | easy | Two Pointers, String |
 | 844 | [Backspace String Compare](https://github.com/XiaoLyu/LeetCode/blob/master/src/Backspace%20String%20Compare.java) | easy | Two Pointers, Stack |

@@ -227,3 +227,4 @@
 | 198 | [House Robber](https://github.com/XiaoLyu/LeetCode/blob/master/src/House%20Robber.java) | easy | DP |
 | 303 | [Range Sum Query - Immutable](https://github.com/XiaoLyu/LeetCode/blob/master/src/Range%20Sum%20Query%20-%20Immutable.java) | easy | DP |
 | 743 | [Network Delay Time](https://github.com/XiaoLyu/LeetCode/blob/master/src/Network%20Delay%20Time.java) | easy | Heap, DFS, BFS, Graph |
+| 874 | [Walking Robot Simulation](https://github.com/XiaoLyu/LeetCode/blob/master/src/Walking%20Robot%20Simulation.java) | easy | Simulation |

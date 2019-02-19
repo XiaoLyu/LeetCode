@@ -155,6 +155,7 @@
 | 14 | [Longest Common Prefix](https://github.com/XiaoLyu/LeetCode/blob/master/src/Longest%20Common%20Prefix.java) | easy | String |
 | 58 | [Length of Last Word](https://github.com/XiaoLyu/LeetCode/blob/master/src/Length%20of%20Last%20Word.java) | easy | String |
 | 686 | [Repeated String Match](https://github.com/XiaoLyu/LeetCode/blob/master/src/Repeated%20String%20Match.java) | easy | String |
+| 859 | [Buddy Strings](https://github.com/XiaoLyu/LeetCode/blob/master/src/Buddy%20Strings.java) | easy | String |
 | --- | --------------------------- | --------- | ------------ |
 | 933 | [Number of Recent Calls](https://github.com/XiaoLyu/LeetCode/blob/master/src/Number%20of%20Recent%20Calls.java) | easy | Queue |
 | 796 | [Rotate String](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotate%20String.java) | easy | |

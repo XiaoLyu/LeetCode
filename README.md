@@ -54,6 +54,7 @@
 | 977 | [Squares of a Sorted Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/Squares%20of%20a%20Sorted%20Array.java) | easy | Array |
 | 985 | [Sum of Even Numbers After Queries](https://github.com/XiaoLyu/LeetCode/blob/master/src/Sum%20of%20Even%20Numbers%20After%20Queries.java) | easy | Array |
 | 976 | [Largest Perimeter Triangle](https://github.com/XiaoLyu/LeetCode/blob/master/src/Largest%20Perimeter%20Triangle.java) | easy | Array |
+| 989 | [Add to Array-Form of Integer](https://github.com/XiaoLyu/LeetCode/blob/master/src/Add%20to%20Array-Form%20of%20Integer.java) | easy | Array |
 | --- | --------------------------- | --------- | ------------ |
 | 771 | [Jewels and Stones](https://github.com/XiaoLyu/LeetCode/blob/master/src/Jewels%20and%20Stones.java) | easy | Hash table |
 | 811 | [Subdomain Visit Count](https://github.com/XiaoLyu/LeetCode/blob/master/src/Subdomain%20Visit%20Count.java) | easy | Hash Table | 

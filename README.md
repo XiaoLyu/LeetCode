@@ -79,6 +79,7 @@
 | 290 | [Word Pattern](https://github.com/XiaoLyu/LeetCode/blob/master/src/Word%20Pattern.java) | easy | Hash Table |
 | 204 | [Count Primes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Count%20Primes.java) | easy | Hash Table, Math |
 | 953 | [Verifying an Alien Dictionary](https://github.com/XiaoLyu/LeetCode/blob/master/src/Verifying%20an%20Alien%20Dictionary.java) | easy | Hash Table |
+| 961 | [N-Repeated Element in Size 2N Array](https://github.com/XiaoLyu/LeetCode/blob/master/src/N-Repeated%20Element%20in%20Size%202N%20Array.java) | easy | Hash Table |
 | --- | --------------------------- | --------- | ------------ |
 | 876 | [Middle of the Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Middle%20of%20the%20Linked%20List.java) | easy | Linked List |
 | 237 | [Delete Node in a Linked List](https://github.com/XiaoLyu/LeetCode/blob/master/src/Delete%20Node%20in%20a%20Linked%20List.java) | easy | Linked List |

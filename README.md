@@ -204,6 +204,7 @@
 | 501 | [Find Mode in Binary Search Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Find%20Mode%20in%20Binary%20Search%20Tree.java) | easy | Tree |
 | 111 | [Minimum Depth of Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Depth%20of%20Binary%20Tree.java) | easy | Tree |
 | 112 | [Path Sum](https://github.com/XiaoLyu/LeetCode/blob/master/src/Path%20Sum.java) | easy | Tree |
+| 965 | [Univalued Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Univalued%20Binary%20Tree.java) | easy | Tree |
 | --- | --------------------------- | --------- | ------------ |
 | 783 | [Minimum Distance Between BST Nodes](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Distance%20Between%20BST%20Nodes.java) | easy | Binary Search Tree |
 | 530 | [Minimum Absolute Difference in BST](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Absolute%20Difference%20in%20BST.java) | easy | Binary Search Tree |

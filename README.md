@@ -210,6 +210,7 @@
 | 111 | [Minimum Depth of Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Minimum%20Depth%20of%20Binary%20Tree.java) | easy | Tree |
 | 112 | [Path Sum](https://github.com/XiaoLyu/LeetCode/blob/master/src/Path%20Sum.java) | easy | Tree |
 | 965 | [Univalued Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Univalued%20Binary%20Tree.java) | easy | Tree |
+| 687 | [Longest Univalue Path](https://github.com/XiaoLyu/LeetCode/blob/master/src/Longest%20Univalue%20Path.java) | easy | Tree |
 | 993 | [Cousins in Binary Tree](https://github.com/XiaoLyu/LeetCode/blob/master/src/Cousins%20in%20Binary%20Tree.java) | easy | Tree |
 | 994 | [Rotting Oranges](https://github.com/XiaoLyu/LeetCode/blob/master/src/Rotting%20Oranges.java) | easy | BFS |
 | 733 | [Flood Fill](https://github.com/XiaoLyu/LeetCode/blob/master/src/Flood%20Fill.java) | easy | DFS |
